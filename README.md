@@ -1,11 +1,14 @@
 # wordway-app
 
-「wordway」 是一款由社区驱动的背单词应用。
+「[wordway](https://wordway.thecode.me/)」 是一款由社区驱动的背单词应用。
 
-官网：[https://wordway.thecode.me](https://wordway.thecode.me/)
-应用：[https://apps.apple.com/cn/app/id1480946110](https://apps.apple.com/cn/app/id1480946110)
+[![appstore][appstore-image]][appstore-url]
+[![googleplay][googleplay-image]][googleplay-url]
 
-> Android 版暂未上线，你可以通过文章最下方二维码加入「wordway」的微信群，后续的上线或更新将在群里进行通知。
+[appstore-image]: https://wordway-storage.thecode.me/screenshots/download-badge-appstore.svg
+[appstore-url]: https://apps.apple.com/cn/app/id1480946110
+[googleplay-image]: https://wordway-storage.thecode.me/screenshots/download-badge-googleplay.svg
+[googleplay-url]: https://play.google.com/store/apps/details?id=me.thecode.wordwayapp
 
 ## 单词本
 
