@@ -3,14 +3,9 @@
 虽然我们准备了一系列的单词本，但并不能涵盖所有学习需求，所以我们为你准备了工具让你可能自己创建单词本以满足你的学习需求。
 
 ## 安装 CLI 工具
+
 ```bash
 $ npm install -g wordway-cli
-```
-
-或
-
-```bash
-$ npm install -g git+https://github.com/wordway/wordway-cli.git
 ```
 
 现在，您可以使用以下命令在任何位置运行 CLI
@@ -50,6 +45,17 @@ words:
    word: hello
   -
    word: world
+```
+
+### 封面
+
+需将 `cover.jpg` 封面图片放到 `assets` 目录下即可为单词本设置封面。
+
+当然，你也可以直接设置封面 Url
+
+```yaml
+info:
+  cover_url: "https://wordway.app/example/cover.jpg"
 ```
 
 ### 标题及简介
@@ -119,21 +125,13 @@ info:
 
 ```yaml
 words:
-  -
-   word: hello
-  -
-   word: world
+  - word: hello
+  - word: world
 ```
 
 > 如果你的单词本单词较多需要进行分组时，你可以通过将单词拆分成不同的章节来进行管理，具体示例请参考  [wordbook-basic-english](https://github.com/wordway/wordbook-basic-english) 单词本。
 
 现在，你可以根据以上说明编辑该文件将你的单词添加到单词本中。
-
-## 构建 README
-
-```
-$ wordway wordbook gendoc
-```
 
 ## 发布单词本
 
@@ -142,3 +140,9 @@ $ wordway wordbook publish
 ```
 
 > 发布前请执行 `wordway login` 登录到你的 wordway 账号。
+
+## 构建 README
+
+```
+$ wordway wordbook gendoc
+```
