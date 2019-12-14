@@ -1,4 +1,25 @@
-# wordway-app
+<h1 align="center">
+wordway
+</h1>
+
+<p align="center">
+  <a aria-label="LiJianying" href="https://github.com/lijy91">
+    <img src="https://img.shields.io/badge/MADE%20BY-LI%20JIANYING-blue.svg?style=for-the-badge&labelColor=000000">
+  </a>
+  <a aria-label="Join the chat" href="https://t.me/wordway">
+    <img alt="" src="https://img.shields.io/badge/chat%20on-telegram-blue.svg?style=for-the-badge&labelColor=000000&logo=telegram">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    Visit <a href="https://wordway.app">https://wordway.app</a> to get started with Wordway.
+  </strong>
+</p>
+
+---
+
+## 简介
 
 「[一路背单词](https://wordway.app/)」 是一款由社区驱动的背单词应用。
 
