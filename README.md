@@ -19,6 +19,19 @@ wordway
 
 ---
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [简介](#%E7%AE%80%E4%BB%8B)
+- [单词本](#%E5%8D%95%E8%AF%8D%E6%9C%AC)
+- [应用预览](#%E5%BA%94%E7%94%A8%E9%A2%84%E8%A7%88)
+- [相关链接](#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5)
+- [讨论](#%E8%AE%A8%E8%AE%BA)
+- [最后](#%E6%9C%80%E5%90%8E)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 简介
 
 「[一路背单词](https://wordway.app/)」 是一款由社区驱动的背单词应用。
