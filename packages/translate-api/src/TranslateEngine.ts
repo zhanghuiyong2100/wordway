@@ -1,4 +1,5 @@
 interface LookUpOptions {
+  exclude?: Array<string>;
   sourceLanguage?: string;
   targetLanguage?: string;
 }
@@ -18,7 +19,7 @@ interface LookUpResult {
   targetText?: string,          // 目标文本
   targetAudioUrl?: string,      // 目标音频链接
   // 原始数据（翻译引擎返回的数据）
-  originData: any;
+  originData?: any;
 }
 
 interface TranslateTextOptions {
