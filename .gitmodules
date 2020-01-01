@@ -1,3 +1,6 @@
 [submodule "extension"]
 	path = extension
 	url = https://github.com/wordway/wordway-extension.git
+[submodule "wordbooks"]
+	path = wordbooks
+	url = https://github.com/wordway/wordway-wordbooks.git
