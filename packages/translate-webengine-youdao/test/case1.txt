@@ -1,0 +1,720 @@
+
+<!DOCTYPE html>
+
+
+
+								<html xmlns="http://www.w3.org/1999/xhtml" class="ua-ch ua-ch-79 ua-wk ua-mac os x">
+<head>
+    <meta name="baidu_union_verify" content="b3b78fbb4a7fb8c99ada6de72aac8a0e">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<meta name="keywords" content="beautifying"/>
+
+<title>【beautifying】什么意思_英语beautifying的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
+<link rel="shortcut icon" href="https://shared-https.ydstatic.com/images/favicon.ico" type="image/x-icon"/>
+
+
+<link href="https://shared.ydstatic.com/dict/v2016/result/160621/result-min.css" rel="stylesheet" type="text/css"/>
+<link href="https://shared.ydstatic.com/dict/v2016/result/pad.css" media="screen and (orientation: portrait), screen and (orientation: landscape)" rel="stylesheet" type="text/css">
+<link rel="canonical" href="http://dict.youdao.com/w/beautifying/"/>
+<link rel="search" type="application/opensearchdescription+xml" title="Yodao Dict" href="plugins/search-provider.xml"/>
+<script type='text/javascript' src='https://shared.ydstatic.com/js/jquery/jquery-1.8.2.min.js'></script>
+</head>
+<body class="t0">
+<!-- 搜索框开始 -->
+    <div id="doc" style="position:relative;zoom:1;">
+    <div class="c-topbar-wrapper">
+        <div class="c-topbar c-subtopbar">
+            <div id="nav" class="c-snav">
+                <a class="topnav" href="http://dict.youdao.com/?keyfrom=dict2.top" target="_blank">词典</a><a class="topnav" href="http://fanyi.youdao.com/?keyfrom=dict2.top" target="_blank">翻译</a><a class="topnav" href="https://ke.youdao.com/?keyfrom=dict2.top" target="_blank">有道精品课</a><a class="topnav" href="http://note.youdao.com/?keyfrom=dict2.top" target="_blank">云笔记</a><a class="topnav" href="http://www.huihui.cn/?keyfrom=dict2.top" target="_blank">惠惠</a><a class="topnav" href="http://www.youdao.com/about/productlist.html?keyfrom=dict2.top" target="_blank">更多产品</a>
+            </div>
+                        <div class="c-sust">
+
+
+                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dbeautifying%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
+                            </div>
+        </div>
+        <div class="c-header">
+            <a class="c-logo" href="/">有道 - 网易旗下搜索</a>
+            <form id="f"  method="get" action="/search" class="c-fm-w" node-type="search">
+                <div id="langSelector" class="langSelector">
+                                                                                                                                            <span id="langText" class="langText">中英</span><span class="aca">▼</span><span class="arrow"></span>
+                    <input type="hidden" id="le" name="le" value="eng" />
+                </div>
+                <span class="s-inpt-w">
+                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="beautifying"/>
+                    <input type="hidden" name="tab" value=""/>
+                    <input type="hidden" name="keyfrom" value="dict2.top"/>
+                    <span id="hnwBtn" class="hand-write"></span>
+                    </span><input type="submit" class="s-btn" value="翻译"/>
+            </form>
+        </div>
+    </div>
+
+<!-- 搜索框结束 -->
+
+<!-- 内容区域 -->
+<div id="scontainer">
+<div id="container">
+    <div id="topImgAd">
+    </div>
+    <div id="results">
+                    <div id="result_navigator" class="result_navigator">
+            <ul class="sub-catalog">
+        <h3>目录</h3>
+        <li class="split"></li>
+                                    <li class="sub1_all"><a class="nav-js log-js" href="#" hidefocus="true" data-4log="dict.nav.basic">释义</a></li>
+                                        <li class="nav-collins"><a class="nav-js log-js" href="#authTrans" hidefocus="true" data-4log="dict.nav.authdict" title="">权威词典</a></li>
+                                                                <li class="written"><a class="nav-js log-js" href="#examples" hidefocus="true" data-4log="dict.nav.sentence">例句</a></li>
+                                                    <li class="nav-collins" style="display:none;"><a href="http://dict.youdao.com/ugc/" hidefocus="true">网友贡献</a></li>
+                                        <li class="split"></li>
+                                        </ul>
+        <div class="dict-votebar" style="display:none;">
+            <div class="vote-head">
+                当前查询结果是否对您有帮助
+            </div>
+            <div class="vote-btns">
+                <button class="up" title="有帮助，点个赞">
+                    <i class="icon vote-arrow"></i>
+                    <!-- <span class="count">271</span> -->
+                </button>
+                <button class="down" aria-pressed="false" title="有待改善">
+                    <i class="icon vote-arrow"></i>
+                </button>
+            </div>
+        </div>
+        <a href="#" class="go-top log-js" data-4log="dict.result.nav.top" title="返回顶部">go top</a>
+    </div>
+                <!-- 结果内容 -->
+                            <div id="results-contents" class="results-content">
+
+
+
+
+
+
+
+
+<div id="phrsListTab" class="trans-wrapper clearfix">
+            <script type="text/javascript">
+    window.wordnow = "beautifying";
+</script>
+<script type="text/javascript" src="https://cdn.staticfile.org/jquery/1.9.1/jquery.min.js"></script>
+<style>
+    #picUgcImg {
+        max-height: 150px;
+        width: 150px;
+        height: auto;
+        border: 0px;
+        padding: 0px;
+    }
+
+    .img-list img {
+        border: none;
+    }
+
+    .picUgcMenu {
+        background-color: #f3f3f3;
+        font-size: 12px;
+        width: 150px;
+        height: 38px;
+        border: 0px solid black;
+        margin-top: -6px;
+        text-align: center;
+        line-height: 38px;
+    }
+
+    .picUgcMenu.hide {
+        display: none;
+    }
+
+    .picUgcMenu .isFavour a{
+        font-size: 14px;
+        color: #BFBFBF;
+    }
+
+    .picUgcMenu .favour{
+        display: inline-block;
+        width: 20px;
+        padding-left: 20px;
+        height: 38px;
+        background: url('https://shared-https.ydstatic.com/dict/v5.15/images/picugc_up.png') no-repeat 0 9px;
+        margin-right: 20px;
+        color: #000;
+        text-decoration: none;
+        line-height: 38px;
+        margin-left: 16px;
+    }
+
+    .picUgcMenu .target b{
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .picUgcMenu .against {
+        display: inline-block;
+        width: 20px;
+        padding-left: 20px;
+        height: 38px;
+        background: url('https://shared-https.ydstatic.com/dict/v5.15/images/picugc_down.png') no-repeat 0 9px;
+        margin-right: 10px;
+        color: #000;
+        text-decoration: none;
+        line-height: 38px;
+    }
+
+    .picUgcMenu .favour.clicked {
+        color: red;
+        background: url('https://shared-https.ydstatic.com/dict/v5.15/images/picugc_up_red.png') no-repeat 0 9px;
+    }
+
+    .picUgcMenu .want {
+        text-align: center;
+        font-size: 16px;
+        cursor: pointer;
+        display: block;
+        background: #5FC4F3;
+        color: #FFF;
+        font-family: "microsoft yahei";
+    }
+
+</style>
+
+
+<div class="img-list" style="height:auto;width:150px;display:none;">
+    <div id="picUgcImga" target="_blank" >
+        <img src="" id="picUgcImg"/>
+    </div>
+    <div class="picUgcMenu hide" style="display:none;">
+    </div>
+</div>
+<script type="text/javascript" src="https://shared.ydstatic.com/dict/v5.15/scripts/picugc-min7.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        getPictures();
+    });
+</script>
+
+        <h2 class="wordbook-js">
+        <span class="keyword">beautifying</span>
+                            <div class="baav">
+                                       <span class="pronounce">美
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="beautifying&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                </span>
+                                  </div>
+            </h2>
+             <div class="trans-container">
+
+   <ul>
+     <li>美化</li>
+    </ul>
+    </div>
+    </div>
+
+
+
+
+
+<div id="webTrans" class="trans-wrapper trans-tab">
+    <h3>
+        <span class="tabs">
+
+
+
+                                                <a rel="#tWebTrans"><span>网络释义</span></a><a rel="#tPETrans"><span>专业释义</span></a><a rel="#tEETrans"><span>英英释义</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#webTransToggle"></a>
+ </h3>
+<!--网络翻译-->
+
+<div id="webTransToggle">
+    <div id="tWebTrans" class="trans-container tab-content">
+
+
+               <div class="wt-container">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                养颜排毒</span>
+    </div>
+    <p class="collapse-content">
+    排毒养颜 ... 排毒养颜身体护理油 Detox Blend <b>养颜排毒 </b><b>Beautifying </b><b>养颜排毒</b>宝口服液 D-Tox Within Support Oral Extract ...</p>
+            <p class="collapse-content via">基于12个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Beautifying+%E5%85%BB%E9%A2%9C%E6%8E%92%E6%AF%92&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                美化</span>
+    </div>
+    <p class="collapse-content">
+    Chinese - English Free Di... ... <b>美化</b> = beautify <b>美化</b> = <b>beautifying </b><b>美化</b> = glamourise ...</p>
+            <p class="collapse-content via">基于10个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Beautifying+%E7%BE%8E%E5%8C%96&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                可以理解为美丽</span>
+    </div>
+    <p class="collapse-content">
+    BeautifyingSkinCareCream是什么意思啊,我英语太烂了,帮帮忙! ... <b>Beautifying </b><b>可以理解为美丽</b>，美化，美容 Skin 皮肤 Care 保护 ...</p>
+            <p class="collapse-content via">基于6个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Beautifying+%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3%E4%B8%BA%E7%BE%8E%E4%B8%BD&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                正在翻译</span>
+    </div>
+    <p class="collapse-content">
+    polar bear made it all look such fun » 北极熊作出它都期待着这种乐趣 <b>beautifying</b> » <b>正在翻译</b>，请等待..</p>
+            <p class="collapse-content via">基于6个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Beautifying+%E6%AD%A3%E5%9C%A8%E7%BF%BB%E8%AF%91&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+            <div id="webPhrase" class="pr-container more-collapse">
+    <div class="title">短语</div>
+       <p class="wordGroup">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_city/#keyfrom=dict.phrase.wordgroup">beautifying city</a></span>
+                          美化城市
+              </p>
+           <p class="wordGroup">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_design/#keyfrom=dict.phrase.wordgroup">beautifying design</a></span>
+                          美化设计
+              </p>
+           <p class="wordGroup">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/face_beautifying/#keyfrom=dict.phrase.wordgroup">face beautifying</a></span>
+                          美容美颜
+              </p>
+           <p class="wordGroup collapse">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/facial_beautifying/#keyfrom=dict.phrase.wordgroup">Facial Beautifying</a></span>
+                          美容
+              </p>
+           <p class="wordGroup collapse">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_newspaper/#keyfrom=dict.phrase.wordgroup">beautifying newspaper</a></span>
+                          美化版面
+              </p>
+           <p class="wordGroup collapse">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_campus/#keyfrom=dict.phrase.wordgroup">Beautifying campus</a></span>
+                          美化校园
+              </p>
+           <p class="wordGroup collapse">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_skin/#keyfrom=dict.phrase.wordgroup">beautifying skin</a></span>
+                          美白肌肤
+                      ;
+                  美白
+              </p>
+           <p class="wordGroup collapse">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_serum/#keyfrom=dict.phrase.wordgroup">Beautifying Serum</a></span>
+                          美化血清
+              </p>
+           <p class="wordGroup collapse">
+
+      <span class="contentTitle"><a class="search-js" href="/w/eng/beautifying_potions/#keyfrom=dict.phrase.wordgroup">Beautifying Potions</a></span>
+                          美丽药剂
+              </p>
+
+   <div class="more"><a href="#" class="sp more_sp">&nbsp;</a><span class="show_more">更多</span><span
+   class="show_less">收起</span>网络短语</div>
+</div> <!-- close webPhrase Tag -->
+    </div>
+            <div id="tPETrans" class="trans-container tab-content">
+                <div id="tPETrans-type-list" class="type-list">
+                        <a class="p-type selected_link" href="#" rel="ptype_0" hidefocus="true">土木建筑工程</a>
+                        </div>
+        <ul id="tPETrans-all-trans" class="all-trans">
+                    <li class="ptype_0 types" style="display:list-item">
+                                    <div class="items">
+                    <span class="title">美化</span>
+                                            <span class="additional"> - 引用次数：47</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The city center aesthetics is to do the Angle from the beauty thinking and method to perfect the function layout design of city center, to <b>beautify</b> urban public art environment.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">城市中心美学就是从美的角度去做城市中心的设计,用美的思考方法与方式去完善城市中心设计的功能布局,去<b>美化</b>城市公共艺术环境。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://www.cnki.net/KCMS/detail/detailall.aspx?dbcode=CMFD&dbname=CMFD2010&filename=2010163560.nh" rel="nofollow">新城市中心设计的美学价值研究 </a>
+                                                            </div>
+                    </li>
+                </ul>
+    <p class="additional"><span class="middot">&middot;</span>2,447,543篇论文数据，部分数据来源于<a target="_blank" href="http://www.inoteexpress.com/" rel="nofollow">NoteExpress</a></p>
+            </div>
+                            <div id="tEETrans" class="trans-container tab-content">
+                <div class="trans-container">
+<!--eng eng result start-->
+    <h4>
+        beautify
+        </h4>
+    <ul>
+
+
+				        <li>
+		<span class="pos">v.</span>
+                            <ul class="ol">
+
+
+            		                    <li>
+            		    <span class="def">make more beautiful</span>
+
+
+
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/fancify/?tab=eng#keyfrom=dict.eesy'>fancify</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/embellish/?tab=eng#keyfrom=dict.eesy'>embellish</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/prettify/?tab=eng#keyfrom=dict.eesy'>prettify</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+
+
+            		                    <li>
+            		    <span class="def">be beautiful to look at</span>
+
+
+
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/deck/?tab=eng#keyfrom=dict.eesy'>deck</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/adorn/?tab=eng#keyfrom=dict.eesy'>adorn</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/decorate/?tab=eng#keyfrom=dict.eesy'>decorate</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/grace/?tab=eng#keyfrom=dict.eesy'>grace</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/embellish/?tab=eng#keyfrom=dict.eesy'>embellish</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+
+
+            		                    <li>
+            		    <span class="def">make more attractive by adding ornament, colour, etc.</span>
+
+
+																				        				<p><em>&quot;beautify yourself for the special day&quot;</em></p>
+
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/decorate/?tab=eng#keyfrom=dict.eesy'>decorate</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/adorn/?tab=eng#keyfrom=dict.eesy'>adorn</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/grace/?tab=eng#keyfrom=dict.eesy'>grace</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/ornament/?tab=eng#keyfrom=dict.eesy'>ornament</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/embellish/?tab=eng#keyfrom=dict.eesy'>embellish</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		                      </ul>
+            </li>
+     </ul>
+<p class="via ar">
+以上来源于:
+<a class="tipshuiseunderline log-js" data-4log="wordnet" target="_blank" href="http://wordnet.princeton.edu/" rel="nofollow">WordNet</a>
+</p>
+<!-- 英英翻译结束 -->
+</div>
+            </div>
+            </div>
+</div>
+
+                          <div id="wordArticle" class="trans-wrapper trans-tab">
+    <h3>
+        <span class="tabs">
+            <a class="tab-current"><span>相关文章</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#wordArticleToggle"></a>
+    </h3>
+    <div id="wordArticleToggle"></div>
+</div>
+<script src="https://shared.ydstatic.com/dict/v2016/result/160621/result-wordArticle.js"></script>                                        <div id="authTrans" class="trans-wrapper trans-tab">
+            <h3>
+                <span class="tabs">
+                                                                                                    <a rel="#collinsResult"><span>&nbsp;柯林斯英汉双解大词典&nbsp;</span></a>
+                </span>
+                <a class="toggle toggleOpen" rel="#authTransToggle"></a>
+            </h3>
+            <div id="authTransToggle">
+                                                    <div id="collinsResult" class="tab-content">
+        <div class="trans-container">
+        <div class="trans-content">
+                                    <div class="collinsToggle trans-container">
+				                                                            <div class="wt-container">
+                                                                                                <h4>
+                                <span class="title">beautify</span>
+                                                                    <em class="additional spell phonetic">/ˈbjuːtɪˌfaɪ/</em>
+
+                                                                                                                                                                                <span class="via rank">TEM8</span>
+
+                                                                                                    <span class="additional pattern">(
+                                                                                                                                                                            beautifying,
+                                                                                                                                                                                                                            beautified,
+                                                                                                                                                                            												beautifies
+                                                                                                                                                                        )</span>
+
+							</h4>
+
+
+
+
+
+
+					    													<ul class="ol">
+
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">1.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
+    																    															    														    														If you <b>beautify</b> something, you make it look more beautiful. 美化
+    														    														    															    															                                                                        															    															    															    															    															    															    																<span class="additional">[正式]</span>
+
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Claire worked to beautify the garden. </p>
+                                                                            <p>克莱尔为美化花园工作着。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                							</ul>
+																													</div>
+							</div>
+		</div>
+	</div>
+</div>
+                            </div>
+        </div>
+
+                                                                        <!--例句选项卡 begin-->
+<div id="examples" class="trans-wrapper">
+    <h3>
+        <span class="tabs">
+                                                                                    <a rel="#bilingual"><span>双语例句</span></a><a rel="#authority"><span>权威例句</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#examplesToggle"></a>
+    </h3>
+    <div id="examplesToggle">
+                <div id="bilingual" class="trans-container  tab-content">
+            <ul class="ol">
+
+
+                                                                                                                <li>
+                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">In</span><span> </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_1')" onmouseout="unhlgt('#src_0_1,#tran_0_1')">this article</span><span>, </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_2')" onmouseout="unhlgt('#src_0_2,#tran_0_2')">I've</span><span> </span><span id="src_0_4" onmouseover="hlgt('#src_0_4,#tran_0_4')" onmouseout="unhlgt('#src_0_4,#tran_0_4')">offered</span><span> </span><span id="src_0_5" onmouseover="hlgt('#src_0_5,#tran_0_5')" onmouseout="unhlgt('#src_0_5,#tran_0_5')">up a handful</span><span> </span><span id="src_0_6" onmouseover="hlgt('#src_0_6,#tran_0_6')" onmouseout="unhlgt('#src_0_6,#tran_0_6')">of</span><span> </span><span id="src_0_7" onmouseover="hlgt('#src_0_7,#tran_0_7')" onmouseout="unhlgt('#src_0_7,#tran_0_7')">tips</span><span> </span><span id="src_0_8" onmouseover="hlgt('#src_0_8,#tran_0_8')" onmouseout="unhlgt('#src_0_8,#tran_0_8')">for</span><span> </span><span id="src_0_9" onmouseover="hlgt('#src_0_9,#tran_0_9')" onmouseout="unhlgt('#src_0_9,#tran_0_9')"><b>beautifying</b></span><span> (</span><span id="src_0_10" onmouseover="hlgt('#src_0_10,#tran_0_10')" onmouseout="unhlgt('#src_0_10,#tran_0_10')">and</span><span> </span><span id="src_0_11" onmouseover="hlgt('#src_0_11,#tran_0_11')" onmouseout="unhlgt('#src_0_11,#tran_0_11')">modernizing</span><span>) </span><span id="src_0_12" onmouseover="hlgt('#src_0_12,#tran_0_12')" onmouseout="unhlgt('#src_0_12,#tran_0_12')">your</span><span> </span><span id="src_0_13" onmouseover="hlgt('#src_0_13,#tran_0_13')" onmouseout="unhlgt('#src_0_13,#tran_0_13')">Swing</span><span> </span><span id="src_0_14" onmouseover="hlgt('#src_0_14,#tran_0_14')" onmouseout="unhlgt('#src_0_14,#tran_0_14')">applications</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="In+this+article%2C+I%27ve+offered+up+a+handful+of+tips+for+beautifying+%28and+modernizing%29+your+Swing+applications.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">在</span><span id="tran_0_1" onmouseover="hlgt('#src_0_1,#tran_0_1')" onmouseout="unhlgt('#src_0_1,#tran_0_1')">本文</span><span>中，</span><span id="tran_0_2" onmouseover="hlgt('#src_0_2,#tran_0_2')" onmouseout="unhlgt('#src_0_2,#tran_0_2')">我</span><span>为您</span><span id="tran_0_4" onmouseover="hlgt('#src_0_4,#tran_0_4')" onmouseout="unhlgt('#src_0_4,#tran_0_4')">提供</span><span id="tran_0_5" onmouseover="hlgt('#src_0_5,#tran_0_5')" onmouseout="unhlgt('#src_0_5,#tran_0_5')">一些</span><span>有用</span><span id="tran_0_6" onmouseover="hlgt('#src_0_6,#tran_0_6')" onmouseout="unhlgt('#src_0_6,#tran_0_6')">的</span><span id="tran_0_7" onmouseover="hlgt('#src_0_7,#tran_0_7')" onmouseout="unhlgt('#src_0_7,#tran_0_7')">技巧</span><span>，</span><span id="tran_0_8" onmouseover="hlgt('#src_0_8,#tran_0_8')" onmouseout="unhlgt('#src_0_8,#tran_0_8')">来</span><span id="tran_0_9" onmouseover="hlgt('#src_0_9,#tran_0_9')" onmouseout="unhlgt('#src_0_9,#tran_0_9')">美化</span><span>（</span><span id="tran_0_10" onmouseover="hlgt('#src_0_10,#tran_0_10')" onmouseout="unhlgt('#src_0_10,#tran_0_10')">并</span><span id="tran_0_11" onmouseover="hlgt('#src_0_11,#tran_0_11')" onmouseout="unhlgt('#src_0_11,#tran_0_11')">现代化</span><span>）</span><span id="tran_0_12" onmouseover="hlgt('#src_0_12,#tran_0_12')" onmouseout="unhlgt('#src_0_12,#tran_0_12')">您</span><span>的 </span><span id="tran_0_13" onmouseover="hlgt('#src_0_13,#tran_0_13')" onmouseout="unhlgt('#src_0_13,#tran_0_13')">Swing</span><span> </span><span id="tran_0_14" onmouseover="hlgt('#src_0_14,#tran_0_14')" onmouseout="unhlgt('#src_0_14,#tran_0_14')">应用程序</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a href="http://www.ibm.com/developerworks/cn/java/j-5things14/" target=_blank rel="nofollow">www.ibm.com</a>
+                                            </p>
+                </li>
+
+
+                                                                                                                <li>
+                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">The government</span><span> </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_1')" onmouseout="unhlgt('#src_1_1,#tran_1_1')">is to</span><span> spend </span><span id="src_1_3" onmouseover="hlgt('#src_1_3,#tran_1_3')" onmouseout="unhlgt('#src_1_3,#tran_1_3')">16</span><span>.9 </span><span id="src_1_4" onmouseover="hlgt('#src_1_4,#tran_1_4')" onmouseout="unhlgt('#src_1_4,#tran_1_4')">trillion</span><span> </span><span id="src_1_5" onmouseover="hlgt('#src_1_5,#tran_1_5')" onmouseout="unhlgt('#src_1_5,#tran_1_5')">won</span><span> ($</span><span id="src_1_6" onmouseover="hlgt('#src_1_6,#tran_1_6')" onmouseout="unhlgt('#src_1_6,#tran_1_6')">14</span><span id="src_1_7" onmouseover="hlgt('#src_1_7,#tran_1_7')" onmouseout="unhlgt('#src_1_7,#tran_1_7')">.6 billion</span><span>) </span><span id="src_1_8" onmouseover="hlgt('#src_1_8,#tran_1_12')" onmouseout="unhlgt('#src_1_8,#tran_1_12')">cleaning</span><span> and </span><span id="src_1_9" onmouseover="hlgt('#src_1_9,#tran_1_13')" onmouseout="unhlgt('#src_1_9,#tran_1_13')"><b>beautifying</b></span><span> </span><span id="src_1_10" onmouseover="hlgt('#src_1_10,#tran_1_8')" onmouseout="unhlgt('#src_1_10,#tran_1_8')">South Korea</span><span>’s </span><span id="src_1_11" onmouseover="hlgt('#src_1_11,#tran_1_9')" onmouseout="unhlgt('#src_1_11,#tran_1_9')">four</span><span> </span><span id="src_1_12" onmouseover="hlgt('#src_1_12,#tran_1_10')" onmouseout="unhlgt('#src_1_12,#tran_1_10')">biggest</span><span> </span><span id="src_1_13" onmouseover="hlgt('#src_1_13,#tran_1_11')" onmouseout="unhlgt('#src_1_13,#tran_1_11')">rivers</span><span>, </span><span id="src_1_14" onmouseover="hlgt('#src_1_14,#tran_1_14')" onmouseout="unhlgt('#src_1_14,#tran_1_14')">and</span><span> to stop them </span><span id="src_1_15" onmouseover="hlgt('#src_1_15,#tran_1_15')" onmouseout="unhlgt('#src_1_15,#tran_1_15')">flooding</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="The+government+is+to+spend+16.9+trillion+won+%28%2414.6+billion%29+cleaning+and+beautifying+South+Korea%E2%80%99s+four+biggest+rivers%2C+and+to+stop+them+flooding.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">政府</span><span id="tran_1_1" onmouseover="hlgt('#src_1_1,#tran_1_1')" onmouseout="unhlgt('#src_1_1,#tran_1_1')">计划</span><span>投入</span><span id="tran_1_3" onmouseover="hlgt('#src_1_3,#tran_1_3')" onmouseout="unhlgt('#src_1_3,#tran_1_3')">16.9</span><span id="tran_1_4" onmouseover="hlgt('#src_1_4,#tran_1_4')" onmouseout="unhlgt('#src_1_4,#tran_1_4')">万亿</span><span id="tran_1_5" onmouseover="hlgt('#src_1_5,#tran_1_5')" onmouseout="unhlgt('#src_1_5,#tran_1_5')">韩元</span><span>（</span><span id="tran_1_6" onmouseover="hlgt('#src_1_6,#tran_1_6')" onmouseout="unhlgt('#src_1_6,#tran_1_6')">146</span><span id="tran_1_7" onmouseover="hlgt('#src_1_7,#tran_1_7')" onmouseout="unhlgt('#src_1_7,#tran_1_7')">亿</span><span>美元）用于</span><span id="tran_1_8" onmouseover="hlgt('#src_1_10,#tran_1_8')" onmouseout="unhlgt('#src_1_10,#tran_1_8')">韩国</span><span id="tran_1_9" onmouseover="hlgt('#src_1_11,#tran_1_9')" onmouseout="unhlgt('#src_1_11,#tran_1_9')">四条</span><span id="tran_1_10" onmouseover="hlgt('#src_1_12,#tran_1_10')" onmouseout="unhlgt('#src_1_12,#tran_1_10')">最大</span><span id="tran_1_11" onmouseover="hlgt('#src_1_13,#tran_1_11')" onmouseout="unhlgt('#src_1_13,#tran_1_11')">河流</span><span>的</span><span id="tran_1_12" onmouseover="hlgt('#src_1_8,#tran_1_12')" onmouseout="unhlgt('#src_1_8,#tran_1_12')">清污</span><span>、</span><span id="tran_1_13" onmouseover="hlgt('#src_1_9,#tran_1_13')" onmouseout="unhlgt('#src_1_9,#tran_1_13')">美化</span><span id="tran_1_14" onmouseover="hlgt('#src_1_14,#tran_1_14')" onmouseout="unhlgt('#src_1_14,#tran_1_14')">及</span><span id="tran_1_15" onmouseover="hlgt('#src_1_15,#tran_1_15')" onmouseout="unhlgt('#src_1_15,#tran_1_15')">防洪</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a href="http://www.ecocn.org/bbs.php?archiver=1&mod=viewthread&tid=28585" target=_blank rel="nofollow">www.ecocn.org</a>
+                                            </p>
+                </li>
+
+
+                                                                                                                <li>
+                    <p><span id="src_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">Dressing up</span><span>, </span><span id="src_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')"><b>beautifying</b></span><span>, </span><span id="src_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">casketing</span><span>, </span><span id="src_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">embalming</span><span>, </span><span id="src_2_4" onmouseover="hlgt('#src_2_4,#tran_2_4')" onmouseout="unhlgt('#src_2_4,#tran_2_4')">burying</span><span> </span><span id="src_2_5" onmouseover="hlgt('#src_2_5,#tran_2_5')" onmouseout="unhlgt('#src_2_5,#tran_2_5')">and</span><span> </span><span id="src_2_6" onmouseover="hlgt('#src_2_6,#tran_2_6')" onmouseout="unhlgt('#src_2_6,#tran_2_6')">cremating</span><span> </span><span id="src_2_7" onmouseover="hlgt('#src_2_7,#tran_2_7')" onmouseout="unhlgt('#src_2_7,#tran_2_7')">are</span><span> </span><span id="src_2_8" onmouseover="hlgt('#src_2_8,#tran_2_8')" onmouseout="unhlgt('#src_2_8,#tran_2_8')">vital</span><span> </span><span id="src_2_9" onmouseover="hlgt('#src_2_9,#tran_2_9')" onmouseout="unhlgt('#src_2_9,#tran_2_9')">and</span><span> </span><span id="src_2_10" onmouseover="hlgt('#src_2_10,#tran_2_10')" onmouseout="unhlgt('#src_2_10,#tran_2_10')">solemn</span><span> </span><span id="src_2_11" onmouseover="hlgt('#src_2_11,#tran_2_11')" onmouseout="unhlgt('#src_2_11,#tran_2_11')">duties</span><span>, </span><span id="src_2_12" onmouseover="hlgt('#src_2_12,#tran_2_12')" onmouseout="unhlgt('#src_2_12,#tran_2_12')">but</span><span> they all require </span><span id="src_2_13" onmouseover="hlgt('#src_2_13,#tran_2_14')" onmouseout="unhlgt('#src_2_13,#tran_2_14')">a daily</span><span> </span><span id="src_2_14" onmouseover="hlgt('#src_2_14,#tran_2_16')" onmouseout="unhlgt('#src_2_14,#tran_2_16')">confrontation</span><span> with </span><span id="src_2_15" onmouseover="hlgt('#src_2_15,#tran_2_15#tran_2_17')" onmouseout="unhlgt('#src_2_15,#tran_2_15#tran_2_17')">your own</span><span> </span><span id="src_2_16" onmouseover="hlgt('#src_2_16,#tran_2_19')" onmouseout="unhlgt('#src_2_16,#tran_2_19')">mortality</span><span>, </span><span id="src_2_17" onmouseover="hlgt('#src_2_17,#tran_2_13')" onmouseout="unhlgt('#src_2_17,#tran_2_13')">which</span><span> </span><span id="src_2_18" onmouseover="hlgt('#src_2_18,#tran_2_18')" onmouseout="unhlgt('#src_2_18,#tran_2_18')">can</span><span> be </span><span id="src_2_20" onmouseover="hlgt('#src_2_20,#tran_2_21')" onmouseout="unhlgt('#src_2_20,#tran_2_21')">pretty</span><span> </span><span id="src_2_21" onmouseover="hlgt('#src_2_21,#tran_2_22')" onmouseout="unhlgt('#src_2_21,#tran_2_22')">frightening</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Dressing+up%2C+beautifying%2C+casketing%2C+embalming%2C+burying+and+cremating+are+vital+and+solemn+duties%2C+but+they+all+require+a+daily+confrontation+with+your+own+mortality%2C+which+can+be+pretty+frightening.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">化妆</span><span>、</span><span id="tran_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">美容</span><span>、入</span><span id="tran_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">棺</span><span>、</span><span id="tran_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">防腐</span><span>、</span><span id="tran_2_4" onmouseover="hlgt('#src_2_4,#tran_2_4')" onmouseout="unhlgt('#src_2_4,#tran_2_4')">埋藏</span><span id="tran_2_5" onmouseover="hlgt('#src_2_5,#tran_2_5')" onmouseout="unhlgt('#src_2_5,#tran_2_5')">和</span><span id="tran_2_6" onmouseover="hlgt('#src_2_6,#tran_2_6')" onmouseout="unhlgt('#src_2_6,#tran_2_6')">火葬</span><span id="tran_2_7" onmouseover="hlgt('#src_2_7,#tran_2_7')" onmouseout="unhlgt('#src_2_7,#tran_2_7')">都是</span><span id="tran_2_8" onmouseover="hlgt('#src_2_8,#tran_2_8')" onmouseout="unhlgt('#src_2_8,#tran_2_8')">重要</span><span id="tran_2_9" onmouseover="hlgt('#src_2_9,#tran_2_9')" onmouseout="unhlgt('#src_2_9,#tran_2_9')">而</span><span id="tran_2_10" onmouseover="hlgt('#src_2_10,#tran_2_10')" onmouseout="unhlgt('#src_2_10,#tran_2_10')">又严肃</span><span>的</span><span id="tran_2_11" onmouseover="hlgt('#src_2_11,#tran_2_11')" onmouseout="unhlgt('#src_2_11,#tran_2_11')">职责</span><span>，</span><span id="tran_2_12" onmouseover="hlgt('#src_2_12,#tran_2_12')" onmouseout="unhlgt('#src_2_12,#tran_2_12')">但是</span><span id="tran_2_13" onmouseover="hlgt('#src_2_17,#tran_2_13')" onmouseout="unhlgt('#src_2_17,#tran_2_13')">这些</span><span id="tran_2_14" onmouseover="hlgt('#src_2_13,#tran_2_14')" onmouseout="unhlgt('#src_2_13,#tran_2_14')">每天</span><span>都会提醒</span><span id="tran_2_15" onmouseover="hlgt('#src_2_15,#tran_2_15#tran_2_17')" onmouseout="unhlgt('#src_2_15,#tran_2_15#tran_2_17')">你</span><span id="tran_2_16" onmouseover="hlgt('#src_2_14,#tran_2_16')" onmouseout="unhlgt('#src_2_14,#tran_2_16')">面对</span><span id="tran_2_17" onmouseover="hlgt('#src_2_15,#tran_2_15#tran_2_17')" onmouseout="unhlgt('#src_2_15,#tran_2_15#tran_2_17')">自己</span><span id="tran_2_18" onmouseover="hlgt('#src_2_18,#tran_2_18')" onmouseout="unhlgt('#src_2_18,#tran_2_18')">也会</span><span>终究</span><span id="tran_2_19" onmouseover="hlgt('#src_2_16,#tran_2_19')" onmouseout="unhlgt('#src_2_16,#tran_2_19')">一死</span><span>的必然事实，</span><span>可能</span><span id="tran_2_21" onmouseover="hlgt('#src_2_20,#tran_2_21')" onmouseout="unhlgt('#src_2_20,#tran_2_21')">相当</span><span id="tran_2_22" onmouseover="hlgt('#src_2_21,#tran_2_22')" onmouseout="unhlgt('#src_2_21,#tran_2_22')">令人恐惧</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a href="http://www.kekenet.com/read/201111/160325_7.shtml" target=_blank rel="nofollow">www.kekenet.com</a>
+                                            </p>
+                </li>
+                                                                                                                     </ul>
+                        <a class="more-example" href="/example/blng/eng/beautifying/#keyfrom=dict.main.moreblng" title="beautifying的双语例句">更多双语例句</a>
+                    </div>
+
+
+
+                <div id="authority" class="trans-container  tab-content">
+                  <ul class="ol">
+                             <li>
+           <p>Besides <b>beautifying</b> company balance sheets, this is encouraging consumers to borrow, to buy cars, for example, and build houses.
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Besides+beautifying+company+balance+sheets%2C+this+is+encouraging+consumers+to+borrow%2C+to+buy+cars%2C+for+example%2C+and+build+houses.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.economist.com/node/2073240/email?sort=3" target=_blank rel="nofollow">ECONOMIST: <i>India's economy</i></a></p>
+           </li>
+                                      <li>
+           <p>Mr Hugin does not expect liquidity to increase much, because with the financial year coming to an end, investors will concentrate on <b>beautifying</b> their portfolios.
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Mr+Hugin+does+not+expect+liquidity+to+increase+much%2C+because+with+the+financial+year+coming+to+an+end%2C+investors+will+concentrate+on+beautifying+their+portfolios.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.economist.com/node/173561/recommend" target=_blank rel="nofollow">ECONOMIST: <i>Alan Greenspan’s miracle cure</i></a></p>
+           </li>
+                                      <li>
+           <p>The activities focused mainly on <b>beautifying</b> several eroded walls.
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="The+activities+focused+mainly+on+beautifying+several+eroded+walls.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.unesco.org/new/en/beirut/single-view/news/voluntary_day_to_clean_old_city_in_tyre/" target=_blank rel="nofollow">UNESCO: <i>Voluntary day to clean old city in Tyre</i></a></p>
+           </li>
+                           </ul>
+                   <a class="more-example" href="/example/auth/beautifying/#keyfrom=dict.main.moreauth" title="beautifying的权威例句">更多权威例句</a>
+                   </div>
+            </div>
+</div>
+<!--例句选项卡 end-->
+
+                                    </div>
+    </div>
+
+
+<div id="ads" class="ads">
+  <div id="dict-inter" class="dict-inter">
+      </div>
+  <div id="baidu-adv"></div>
+
+  <div id="follow" class="follow">
+    <p class="hd">应用推荐</p>
+    <div class="bd">
+      <iframe src="https://c.youdao.com/www/app.html" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
+
+                            <div id="rel-search" class="rel-search">
+
+            </div>
+                <div id="pronounce">
+            <div class="alpha-bg"></div>
+            <div class="pr-content">
+                $firstVoiceSent
+                <div class="pr-source">- 来自原声例句</div>
+            </div>
+        </div>
+</div>
+<div class="c-bsearch" style="zoom:1;">
+</div>
+</div>
+<!-- 内容区域 -->
+
+<div id="c_footer">
+  <div class="wrap">
+            <a href="http://www.youdao.com/about/" rel="nofollow">关于有道</a>
+        <a href="http://ir.youdao.com/" rel="nofollow">Investors</a>
+        <a href="http://dsp.youdao.com/?keyfrom=dict2.top" rel="nofollow">有道智选</a>
+        <a href="http://i.youdao.com/?keyfrom=dict2.top" rel="nofollow">官方博客</a>
+        <a href="http://techblog.youdao.com/?keyfrom=dict2.top" rel="nofollow">技术博客</a>
+        <a href="http://campus.youdao.com/index.php?t1=index?keyfrom=dict2.top" rel="nofollow">诚聘英才</a>
+        <a href="http://shared.youdao.com/www/contactus-page.html?keyfrom=dict2.top" rel="nofollow">联系我们</a>
+        <a href="https://dict.youdao.com/map/index.html?keyfrom=dict2.top">站点地图</a>
+        <a href="http://www.12377.cn/?keyfrom=dict2.top" rel="nofollow">网络举报</a>
+    <span class="c_fcopyright">&copy; 2019 网易公司 <a href="http://www.youdao.com/terms/privacy.html?keyfrom=dict2.top" rel="nofollow">隐私政策</a> <a href="http://www.youdao.com/terms/index.html?keyfrom=dict2.top" rel="nofollow">服务条款</a> 京ICP证080268号 <a href="http://beian.miit.gov.cn" rel="nofollow">京ICP备10005211号</a></span>
+  </div>
+</div>
+</div>
+<div id="langSelection" class="pm">
+    <ul>
+        <li><a href="#" rel="eng" class="current">中英</a></li>
+        <li><a href="#" rel="fr">中法</a></li>
+        <li><a href="#" rel="ko">中韩</a></li>
+        <li><a href="#" rel="jap">中日</a></li>
+    </ul>
+</div>
+
+<div id="handWrite" class="pm" style="display:none;">
+    <object width="346" height="216" type="application/x-shockwave-flash" id="hnw" data="https://shared.ydstatic.com/dict/v5.16/swf/Hnw.swf">
+        <param name="movie" value="https://shared.ydstatic.com/dict/v5.16/swf/Hnw.swf"/>
+        <param name="menu" value="false"/>
+        <param name="allowScriptAccess" value="always"/>
+    </object>
+</div>
+
+<div id="researchZoon" class="pm">
+    <div class="title">小调查</div>
+    <div class="zoo-content">
+        请问您想要如何调整此模块？
+        <p><input id="upIt" type="radio" name="researchBox" value="up"><label for="upIt">模块上移</label></p>
+        <p><input id="downIt" type="radio" name="researchBox" value="down"><label for="downIt">模块下移</label></p>
+        <p><input id="dontmove" type="radio" name="researchBox" value="stay"><label for="dontmove">不移动</label></p>
+        <div>感谢您的反馈，我们会尽快进行适当修改！</div>
+        <a href="http://survey2.163.com/html/webdict_survey_reorder/paper.html" target="_blank" style="text-decoration: underline;" rel="nofollow">进来说说原因吧</a>
+        <a href="javascript:void(0);" class="submitResult" rel="nofollow">确定</a>
+    </div>
+</div>
+
+<div id="researchZoon21" class="pm">
+    <div class="title">小调查</div>
+    <div class="zoo-content">
+        请问您想要如何调整此模块？
+        <p><input id="upIt21" type="radio" name="researchBox" value="up"><label for="upIt21">模块上移</label></p>
+        <p><input id="downIt21" type="radio" name="researchBox" value="down"><label for="downIt21">模块下移</label></p>
+        <p><input id="dontmove21" type="radio" name="researchBox" value="stay"><label for="dontmove21">不移动</label></p>
+        <div>感谢您的反馈，我们会尽快进行适当修改！</div>
+        <a href="http://survey2.163.com/html/webdict_survey_reorder/paper.html" target="_blank" style="text-decoration: underline;" rel="nofollow">进来说说原因吧</a>
+        <a href="javascript:void(0);" class="submitResult" rel="nofollow">确定</a>
+    </div>
+</div>
+
+<div id="editwordform" style="display:none;">
+    <h3>修改单词</h3>
+    <a href="javascript:void(0);" id="close-editwordform"></a>
+    <form method="post" >
+        <label for="wordbook-word">单词</label>
+        <input id="wordbook-word" type="text" value="" name="word" autocomplete="off" /><span><a id="delword" href="javascript:void(0);">从单词本中删除</a></span>
+        <label for="wordbook-phonetic">音标</label>
+        <input id="wordbook-phonetic" type="text" value="" name="phonetic" />
+        <label for="wordbook-desc">解释</label>
+        <textarea id="wordbook-desc" name="desc" ></textarea>
+        <label style="color:blue;">更多（可不填）</label>
+        <label for="wordbook-tags">分类</label><input id="wordbook-tags" type="text" value="" name="tags" autocomplete="off" />
+        <ul id="tag-select-list">
+        </ul>
+        <div style="text-align:center;"><a id="openwordbook" href="/wordbook/wordlist?keyfrom=smallpic" target="_blank">打开单词本</a><a id="addword" href="javascript:void(0);">提交</a></div>
+    </form>
+</div>
+
+<script type="text/javascript" src="https://shared.ydstatic.com/dict/v2016/160525/autocomplete_json.js"></script>
+<script type="text/javascript">
+    var global = {
+        fromVm:{
+            searchDomain:'youdao.com'
+        }
+    };
+
+
+    function rwt(a, newlink) {
+        try {
+            if (a === window) {
+                a = window.event.srcElement;
+                while (a) {
+                    if (a.href)
+                        break;
+                    a = a.parentNode
+                }
+            }
+            a.href = newlink;
+            a.onmousedown = ""
+        } catch (p) {
+        }
+        return true
+    }
+</script>
+
+<script type="text/javascript" src="https://c.youdao.com/dict/activity/ad/result-min.js"></script>
+<script>
+var _rlog = _rlog || [];
+_rlog.push(["_setAccount" , "dictweb"]);
+_rlog.push(["_addPost" , "page" , "search"]);
+_rlog.push(["_addPost" , "q" , "beautifying"]);
+</script>
+<script defer src="https://shared.ydstatic.com/js/rlog/v1.js"></script>
+<!-- START NetEase Devilfish 2006 -->
+<script src="https://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script type="text/javascript">
+_ntes_nacc = "yddictweb";
+neteaseTracker();
+</script>
+<!-- END NetEase Devilfish 2006 -->
+</body>
+</html>
