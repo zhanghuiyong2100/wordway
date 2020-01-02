@@ -9,7 +9,7 @@ interface LookUpResult {
   tip?: string;                 // 提示
   definitions?: Array<any>;     // 定义（基本释义）
   ukIpa?: string;               // 英语-英式音标
-  ukPronunciationUrl?: string;  // 英语-英式发音链接
+  ukPronunciationUrl?: string;  // 英语-英式发音链接
   usIpa?: string;               // 英语-美式音标
   usPronunciationUrl?: string;  // 英语-美式发音链接
   tenses?: Array<any>;          // 时态
