@@ -4,8 +4,6 @@ import {
   TranslateOverrides,
   LookUpOptions,
   LookUpResult,
-  TranslateTextOptions,
-  TranslateTextResult,
 } from '@wordway/translate-api';
 
 import { toLookUpResult } from './converts';
@@ -65,14 +63,6 @@ class YoudaoEngine extends TranslateEngine {
         .then(successCallback)
         .catch(failureCallback);
     });
-  }
-
-  translateText(
-    q: string,
-    options: TranslateTextOptions | undefined
-  ): Promise<TranslateTextResult> {
-    const detailMessage = `\nq: ${q}\noptions: ${JSON.stringify(options)}`;
-    throw new Error(`Method not implemented.${detailMessage}`);
   }
 }
 

@@ -4,7 +4,7 @@ import { toLookUpResult } from '../src/converts';
 
 describe('converts', () => {
   it('works', async () => {
-    const originData = fs.readFileSync('./test/go.txt').toString();
+    const originData = fs.readFileSync('./test/apples.txt').toString();
 
     const r = toLookUpResult(
       new BingWebEngine(),

@@ -11,6 +11,7 @@ const toLookUpResult = (
   originData: any
 ): LookUpResult => {
   let word;
+  let tip;
   let definitions;
   let ukIpa;
   let ukPronunciationUrl: string | undefined = undefined;
@@ -22,7 +23,8 @@ const toLookUpResult = (
   let targetText, targetAudioUrl;
 
   const $ = cheerio.load(originData);
-
+  tip = $('.in_tip').text();
+  if (tip.length === 0) tip = undefined;
   word = $('#headword').text();
   definitions = $('.qdef > ul > li')
     .toArray()
@@ -99,6 +101,7 @@ const toLookUpResult = (
   let lookUpResult: LookUpResult = {
     engine: engine.name,
     word,
+    tip,
     definitions,
     ukIpa,
     ukPronunciationUrl,
