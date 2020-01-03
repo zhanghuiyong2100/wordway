@@ -17,6 +17,8 @@ const toLookUpResult = (
   let ukPronunciationUrl: string | undefined = undefined;
   let usIpa;
   let usPronunciationUrl: string | undefined = undefined;
+  let images;
+  let phrases;
   let tenses;
   let sentences;
   let sourceText, sourceAudioUrl;
@@ -61,6 +63,8 @@ const toLookUpResult = (
         ?.replace("javascript:BilingualDict.Click(this,'", '')
         ?.replace("','akicon.png',false,'dictionaryvoiceid')", '');
   });
+
+  images = $('.simg > a > img').toArray().map(v => $(v).attr('src'));
 
   const tensesNodes = $('.hd_if').children();
 
@@ -107,6 +111,8 @@ const toLookUpResult = (
     ukPronunciationUrl,
     usIpa,
     usPronunciationUrl,
+    images,
+    phrases,
     tenses,
     sentences,
     sourceText,

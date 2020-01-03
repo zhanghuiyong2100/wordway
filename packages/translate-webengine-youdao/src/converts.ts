@@ -16,6 +16,7 @@ const toLookUpResult = (
   let ukPronunciationUrl: string | undefined = undefined;
   let usIpa;
   let usPronunciationUrl: string | undefined = undefined;
+  let phrases;
   let tenses;
   let sentences;
   let sourceText, sourceAudioUrl;
@@ -77,6 +78,13 @@ const toLookUpResult = (
     }
   });
 
+  phrases = $('#webPhrase > .wordGroup').toArray().map(e => {
+    return {
+      source: $(e.childNodes[1]).text().trim(),
+      target: $(e.childNodes[2]).text().split(';').map(v => v.trim()).join('；').trim(),
+    }
+  });
+
   const additional = $('#phrsListTab .trans-container .additional')
     .text()
     .replace('[', '')
@@ -112,8 +120,14 @@ const toLookUpResult = (
       return { source, target };
     });
 
-  sourceText = $($('#ydTrans .trans-container > p')[0]).text().trim();
-  targetText = $($('#ydTrans .trans-container > p')[1]).text().trim();
+  sourceText = $($('#ydTrans .trans-container > p')[0])
+    .text()
+    .trim();
+  if (sourceText?.length === 0) sourceText = undefined;
+  targetText = $($('#ydTrans .trans-container > p')[1])
+    .text()
+    .trim();
+  if (targetText?.length === 0) targetText = undefined;
 
   let lookUpResult: LookUpResult = {
     engine: engine.name,
@@ -123,6 +137,7 @@ const toLookUpResult = (
     ukPronunciationUrl,
     usIpa,
     usPronunciationUrl,
+    phrases,
     tenses,
     sentences,
     sourceText,

@@ -8,15 +8,16 @@
 [npm-url]: https://www.npmjs.com/package/@wordway/translate-api
 [npm-dm-image]: https://img.shields.io/npm/dm/@wordway/translate-api.svg
 [npm-dm-url]: https://www.npmjs.com/package/@wordway/translate-api
-[telegram-image]:https://img.shields.io/badge/chat-on%20telegram-blue.svg
+[telegram-image]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [telegram-url]: https://t.me/wordway
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
 
 - [Quick Start](#quick-start)
   - [Installation](#installation)
+- [Specification](#specification)
 - [Local Development](#local-development)
   - [`npm start` or `yarn start`](#npm-start-or-yarn-start)
   - [`npm run build` or `yarn build`](#npm-run-build-or-yarn-build)
@@ -36,18 +37,37 @@ $ yarn add @wordway/translate-api
 Now, enjoy!
 
 ```js
-const icibaEngine = new IcibaEngine({
-  key: '<Your key>',
-});
-const youdaoEngine = new YoudaoEngine({
-  appKey: '<Your appKey>',
-  appSecret: '<Your appSecret>',
-});
+const icibaEngine = new IcibaEngine({ key: '<Your key>'});
+const youdaoEngine = new YoudaoEngine({ appKey: '<Your appKey>', appSecret: '<Your appSecret>'});
 
 const client = new Translate([icibaEngine, youdaoEngine]);
 
 const lookUpResult = await client.engine('youdao').lookUp('hello');
 ```
+
+## Specification
+
+LookUpResult
+
+| name                 | required | type         | description                    |
+| -------------------- | -------- | ------------ | ------------------------------ |
+| `engine`             | YES      | `string`     | 字典引擎                       |
+| `word`               | YES      | `string`     | 单词                           |
+| `tip`                | NO       | `string`     | 提示                           |
+| `definitions`        | NO       | `Array<any>` | 定义（基本释义）               |
+| `ukIpa`              | NO       | `string`     | 英语-英式音标                  |
+| `ukPronunciationUrl` | NO       | `string`     | 英语-英式发音链接              |
+| `usIpa`              | NO       | `string`     | 英语-美式音标                  |
+| `usPronunciationUrl` | NO       | `string`     | 英语-美式发音链接              |
+| `images`             | NO       | `Array<any>` | 图片                           |
+| `phrases`            | NO       | `Array<any>` | 短语                           |
+| `tenses`             | NO       | `Array<any>` | 时态                           |
+| `sentences`          | NO       | `Array<any>` | 例句                           |
+| `sourceText`         | NO       | `string`     | 原始文本                       |
+| `sourceAudioUrl`     | NO       | `string`     | 原始音频链接                   |
+| `targetText`         | NO       | `string`     | 目标文本                       |
+| `targetAudioUrl`     | NO       | `string`     | 目标音频链接                   |
+| `originData`         | NO       | `any`        | 原始数据（翻译引擎返回的数据） |
 
 ## Local Development
 

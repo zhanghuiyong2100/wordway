@@ -12,6 +12,8 @@ interface LookUpResult {
   ukPronunciationUrl?: string;  // 英语-英式发音链接
   usIpa?: string;               // 英语-美式音标
   usPronunciationUrl?: string;  // 英语-美式发音链接
+  images?: Array<any>;          // 图片
+  phrases?: Array<any>;         // 短语
   tenses?: Array<any>;          // 时态
   sentences?: Array<any>;       // 例句
   // 翻译（当查词非单词时需要采用下面的字段）
