@@ -7,6 +7,7 @@ import {
 
 const toLookUpResult = (
   engine: TranslateEngine,
+  q: string,
   options: LookUpOptions | undefined,
   originData: any
 ): LookUpResult => {
@@ -121,6 +122,10 @@ const toLookUpResult = (
     targetAudioUrl,
     originData,
   };
+
+  if (!word && !sourceText) {
+    throw Error(`没有找到与 ${q} 相关的结果。`);
+  }
 
   if ((options?.exclude || []).indexOf('originData') >= 0) {
     delete lookUpResult.originData;

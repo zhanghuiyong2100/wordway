@@ -35,7 +35,7 @@ class IcibaEngine extends TranslateEngine {
     return new Promise((resolve, reject) => {
       const successCallback = async (response: any) => {
         const originData = await response.json();
-        resolve(toLookUpResult(this, options, originData));
+        resolve(toLookUpResult(this, q, options, originData));
       };
       const failureCallback = (error: any) => reject(error);
 
