@@ -68,9 +68,7 @@ wordway
 
 欢迎加入「一路背单词」的微信群或 [Telegram Group](https://t.me/wordway) 与我分享你的建议和想法。
 
-![微信讨论组](https://wordway-storage.thecode.me/screenshots/wechat_group_qrcode.jpeg?imageView2/2/w/280/format/png)
-
-如微信群二维码不可用，请添加我的微信号，添加时请备注『加入一路背单词用户群』。
+> 由于微信的限制，请先添加我的微信号并备注『加入一路背单词用户群』。
 
 ![开发者微信](https://wordway-storage.thecode.me/screenshots/wechat_qrcode.png?imageView2/2/w/280/format/png)
 
