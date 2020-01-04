@@ -78,12 +78,21 @@ const toLookUpResult = (
     }
   });
 
-  phrases = $('#webPhrase > .wordGroup').toArray().map(e => {
-    return {
-      source: $(e.childNodes[1]).text().trim(),
-      target: $(e.childNodes[2]).text().split(';').map(v => v.trim()).join('；').trim(),
-    }
-  });
+  phrases = $('#webPhrase > .wordGroup')
+    .toArray()
+    .map(e => {
+      return {
+        source: $(e.childNodes[1])
+          .text()
+          .trim(),
+        target: $(e.childNodes[2])
+          .text()
+          .split(';')
+          .map(v => v.trim())
+          .join('；')
+          .trim(),
+      };
+    });
 
   const additional = $('#phrsListTab .trans-container .additional')
     .text()
