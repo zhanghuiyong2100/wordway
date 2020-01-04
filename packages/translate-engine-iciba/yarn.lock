@@ -1101,9 +1101,10 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@wordway/translate-api@link:../translate-api":
-  version "0.0.0"
-  uid ""
+"@wordway/translate-api@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.npmjs.org/@wordway/translate-api/-/translate-api-0.1.1.tgz#dde75a4904439488d0c8d17a6fc1cbf172d7615d"
+  integrity sha512-QmOemEnY2Yi7jNA6pCtcr2YzL28wlqYqy90n6bxVy4lXRfV6K5BxVH9HCeWhlE4qYhXnoL1M2+DMy68VLdXW2w==
 
 abab@^2.0.0:
   version "2.0.3"

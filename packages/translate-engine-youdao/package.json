@@ -29,15 +29,15 @@
   "author": "LiJianying <lijy91@foxmail.com>",
   "module": "dist/translate-engine-youdao.esm.js",
   "devDependencies": {
+    "@types/crypto-js": "^3.1.43",
     "@types/jest": "^24.0.24",
-    "@wordway/translate-api": "link:../translate-api",
     "husky": "^3.1.0",
     "tsdx": "^0.12.0",
     "tslib": "^1.10.0",
     "typescript": "^3.7.4"
   },
   "dependencies": {
-    "@types/crypto-js": "^3.1.43",
+    "@wordway/translate-api": "^0.1.1",
     "crypto-js": "^3.1.9-1"
   }
 }

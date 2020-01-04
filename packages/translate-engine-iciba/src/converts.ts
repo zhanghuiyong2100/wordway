@@ -14,11 +14,7 @@ const toLookUpResult = (
   let sourceText, sourceAudioUrl;
   let targetText, targetAudioUrl;
 
-  const {
-    word_name: word,
-    exchange,
-    symbols,
-  } = originData;
+  const { word_name: word, exchange, symbols } = originData;
 
   if (exchange) {
     const tenseTypes: any = {
