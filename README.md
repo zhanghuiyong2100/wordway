@@ -46,7 +46,7 @@ wordway
 
 ## 单词本
 
-目前我们已经收集及整理了多本常用单词本，你可以在 GitHub 的 [wordway-wordbooks](https://github.com/wordway/wordway-wordbooks) 仓库中查看，同时也欢迎大家对这些单词本提建议来完善它们。
+目前我们已经收集及整理了多本常用单词本，你可以在 GitHub 的 [wordbooks](https://github.com/wordway/wordbooks) 仓库中查看，同时也欢迎大家对这些单词本提建议来完善它们。
 
 - 创建你的单词本：[https://github.com/wordway/wordway-app/issues/3](https://github.com/wordway/wordway-app/issues/3)
 - 建议收录单词本：[https://github.com/wordway/wordway-app/issues/4](https://github.com/wordway/wordway-app/issues/4)
