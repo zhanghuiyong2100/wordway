@@ -1,0 +1,1236 @@
+<!DOCTYPE html>
+                                                
+      
+
+								<html xmlns="http://www.w3.org/1999/xhtml" class="ua-downloading tool ua-downloading tool ua-other ua-unknown">
+<head>
+    <meta name="baidu_union_verify" content="b3b78fbb4a7fb8c99ada6de72aac8a0e">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+<meta name="keywords" content="most"/>
+
+<title>【most】什么意思_英语most的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
+<link rel="shortcut icon" href="https://shared-https.ydstatic.com/images/favicon.ico" type="image/x-icon"/>
+
+
+<link href="https://shared.ydstatic.com/dict/v2016/result/160621/result-min.css" rel="stylesheet" type="text/css"/>
+<link href="https://shared.ydstatic.com/dict/v2016/result/pad.css" media="screen and (orientation: portrait), screen and (orientation: landscape)" rel="stylesheet" type="text/css">
+<link rel="canonical" href="http://dict.youdao.com/w/most/"/>
+<link rel="search" type="application/opensearchdescription+xml" title="Yodao Dict" href="plugins/search-provider.xml"/>
+<script type='text/javascript' src='https://shared.ydstatic.com/js/jquery/jquery-1.8.2.min.js'></script>
+</head>
+<body class="t0">
+<!-- 搜索框开始 -->
+    <div id="doc" style="position:relative;zoom:1;">
+    <div class="c-topbar-wrapper">
+        <div class="c-topbar c-subtopbar">
+            <div id="nav" class="c-snav">
+                <a class="topnav" href="http://dict.youdao.com/?keyfrom=dict2.top" target="_blank">词典</a><a class="topnav" href="http://fanyi.youdao.com/?keyfrom=dict2.top" target="_blank">翻译</a><a class="topnav" href="https://ke.youdao.com/?keyfrom=dict2.top" target="_blank">有道精品课</a><a class="topnav" href="http://note.youdao.com/?keyfrom=dict2.top" target="_blank">云笔记</a><a class="topnav" href="http://www.huihui.cn/?keyfrom=dict2.top" target="_blank">惠惠</a><a class="topnav" href="http://www.youdao.com/about/productlist.html?keyfrom=dict2.top" target="_blank">更多产品</a>
+            </div>
+                        <div class="c-sust">
+                                                
+
+                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dmost%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
+                            </div>
+        </div>
+        <div class="c-header">
+            <a class="c-logo" href="/">有道 - 网易旗下搜索</a>
+            <form id="f"  method="get" action="/search" class="c-fm-w" node-type="search">
+                <div id="langSelector" class="langSelector">
+                                                                                                                                            <span id="langText" class="langText">中英</span><span class="aca">▼</span><span class="arrow"></span>
+                    <input type="hidden" id="le" name="le" value="eng" />
+                </div>
+                <span class="s-inpt-w">
+                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="most"/>
+                    <input type="hidden" name="tab" value=""/>
+                    <input type="hidden" name="keyfrom" value="dict2.top"/>
+                    <span id="hnwBtn" class="hand-write"></span>
+                    </span><input type="submit" class="s-btn" value="翻译"/>
+            </form>
+        </div>
+    </div>
+
+<!-- 搜索框结束 -->
+
+<!-- 内容区域 -->
+<div id="scontainer">
+<div id="container">
+    <div id="topImgAd">
+    </div>
+    <div id="results">
+                    <div id="result_navigator" class="result_navigator">
+            <ul class="sub-catalog">
+        <h3>目录</h3>
+        <li class="split"></li>
+                                    <li class="sub1_all"><a class="nav-js log-js" href="#" hidefocus="true" data-4log="dict.nav.basic">释义</a></li>
+                                        <li class="nav-collins"><a class="nav-js log-js" href="#authTrans" hidefocus="true" data-4log="dict.nav.authdict" title="">权威词典</a></li>
+                                        <li class="spoken"><a class="nav-js log-js" href="#eTransform" hidefocus="true" data-4log="dict.nav.usage">用法</a></li>
+                                                    <li class="written"><a class="nav-js log-js" href="#examples" hidefocus="true" data-4log="dict.nav.sentence">例句</a></li>
+                                                                <li class="split"></li>
+                                        </ul>
+        <div class="dict-votebar" style="display:none;">
+            <div class="vote-head">
+                当前查询结果是否对您有帮助
+            </div>
+            <div class="vote-btns">
+                <button class="up" title="有帮助，点个赞">
+                    <i class="icon vote-arrow"></i>
+                    <!-- <span class="count">271</span> -->
+                </button>
+                <button class="down" aria-pressed="false" title="有待改善">
+                    <i class="icon vote-arrow"></i>
+                </button>
+            </div>
+        </div>
+        <a href="#" class="go-top log-js" data-4log="dict.result.nav.top" title="返回顶部">go top</a>
+    </div>
+                <!-- 结果内容 -->
+                            <div id="results-contents" class="results-content">
+                                                          
+                                                            
+                                                         	 
+
+
+   
+ 
+  					
+<div id="phrsListTab" class="trans-wrapper clearfix">
+                            <h2 class="wordbook-js">
+        <span class="keyword">most</span>
+                            <div class="baav">
+                            <span class="pronounce">英
+                                    <span class="phonetic">[məʊst]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="most&type=1" data-4log="dict.basic.ec.uk.voice"></a>
+                                </span>
+                                      <span class="pronounce">美
+                                    <span class="phonetic">[moʊst]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="most&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                </span>
+                                  </div>
+            </h2>
+             <div class="trans-container">
+
+   <ul>
+     <li>adv. 最；非常，极其；最多；几乎</li>
+     <li>adj. 大部分的，多数的；最多的</li>
+     <li>n. 大部分，大多数</li>
+     <li>n. (Most)人名；(德、俄、法、芬、捷、英)莫斯特</li>
+    </ul>
+              <p class="additional">[
+                    
+        many或 much; more; most
+                     复数
+        much; more; most
+                   ]</p>
+      </div>
+    </div>
+                          
+
+
+
+ 
+<div id="webTrans" class="trans-wrapper trans-tab">
+    <h3>
+        <span class="tabs"> 
+                
+                
+                
+                                                <a rel="#tWebTrans"><span>网络释义</span></a><a rel="#tPETrans"><span>专业释义</span></a><a rel="#tEETrans"><span>英英释义</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#webTransToggle"></a>
+ </h3>
+<!--网络翻译-->
+
+<div id="webTransToggle">
+    <div id="tWebTrans" class="trans-container tab-content">
+        
+
+               <div class="wt-container">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                大多数</span>
+    </div>
+    <p class="collapse-content">
+    <b>大多数</b>(<b>Most</b>)是不存在的地方。已经考上的宣传，他们不给。</p>
+            <p class="collapse-content via">基于1319个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Most+%E5%A4%A7%E5%A4%9A%E6%95%B0&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                莫斯特</span>
+    </div>
+    <p class="collapse-content">
+    <b>莫斯特</b>（Moster）负责起草合作文件，他是一名律师。我有一群志同道合的朋友。</p>
+            <p class="collapse-content via">基于1000个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Most+%E8%8E%AB%E6%96%AF%E7%89%B9&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                大部分</span>
+    </div>
+    <p class="collapse-content">
+    这种玩法<b>大部分</b>(<b>Most</b>)的对手都会任何(Any)是拿到更强的牌了。切勿再以自己的老公/老婆长地帅或漂亮为荣，听你的话、宠你到爆才是王道。</p>
+            <p class="collapse-content via">基于960个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Most+%E5%A4%A7%E9%83%A8%E5%88%86&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                最多</span>
+    </div>
+    <p class="collapse-content">
+    新南威尔士州是澳大利亚生齿<b>最多</b>(<b>Most</b>)的地域，一个人如果学会始终让自己的大脑充满积极，进取，乐观，愉快和有希望的想法，那么他就己经解决了人生的一大奥秘。</p>
+            <p class="collapse-content via">基于802个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Most+%E6%9C%80%E5%A4%9A&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+            <div id="webPhrase" class="pr-container more-collapse">
+    <div class="title">短语</div>
+       <p class="wordGroup">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_likely/#keyfrom=dict.phrase.wordgroup">most likely</a></span>
+                          大概
+                      ;
+                  也许
+                      ;
+                  最可能
+                      ;
+                  很可能
+              </p>
+           <p class="wordGroup">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_recent/#keyfrom=dict.phrase.wordgroup">most recent</a></span>
+                          最近的
+                      ;
+                  最新动态
+                      ;
+                  最新信息
+                      ;
+                  最新
+              </p>
+           <p class="wordGroup">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_viewed/#keyfrom=dict.phrase.wordgroup">most viewed</a></span>
+                          浏览最多的文章
+                      ;
+                  最多人看过的
+                      ;
+                  热门图片
+                      ;
+                  最受欢迎
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_importantly/#keyfrom=dict.phrase.wordgroup">most importantly</a></span>
+                          最重要的是
+                      ;
+                  最为重要
+                      ;
+                  最重要
+                      ;
+                  最为重要的是
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_formal/#keyfrom=dict.phrase.wordgroup">most formal</a></span>
+                          正礼装
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_frequent/#keyfrom=dict.phrase.wordgroup">most frequent</a></span>
+                          主要的最经常的
+                      ;
+                  最常见的
+                      ;
+                  最经常的
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_unimaginated/#keyfrom=dict.phrase.wordgroup">Most unimaginated</a></span>
+                          最无法想象的
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_high/#keyfrom=dict.phrase.wordgroup">most high</a></span>
+                          具有至高
+                      ;
+                  至高者
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/most_inspiration/#keyfrom=dict.phrase.wordgroup">most inspiration</a></span>
+                          最佳表现
+              </p>
+   
+   <div class="more"><a href="#" class="sp more_sp">&nbsp;</a><span class="show_more">更多</span><span
+   class="show_less">收起</span>网络短语</div>
+</div> <!-- close webPhrase Tag -->
+    </div>
+            <div id="tPETrans" class="trans-container tab-content">
+                <div id="tPETrans-type-list" class="type-list">
+                        <a class="p-type selected_link" href="#" rel="ptype_0" hidefocus="true">军事学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_1" hidefocus="true">计算机科学技术</a>
+                        </div>
+        <ul id="tPETrans-all-trans" class="all-trans">
+                    <li class="ptype_0 types" style="display:list-item">
+                                    <div class="items">
+                    <span class="title">[空截暗语]八架或八架以上飞机</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_1 types">
+                                    <div class="items">
+                    <span class="title">微型输出软体翻译器 (micromation output software translator)</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">模组化办公室系统终端 (modular office system terminal)</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">金属氧化物半导体场效应晶体管</span>
+                                                        </div>
+                    </li>
+                </ul>
+    <p class="additional"><span class="middot">&middot;</span>2,447,543篇论文数据，部分数据来源于<a target="_blank" href="http://www.inoteexpress.com/" rel="nofollow">NoteExpress</a></p>
+            </div>
+                            <div id="tEETrans" class="trans-container tab-content">
+                <div class="trans-container">
+<!--eng eng result start-->
+    <h4>
+        most
+            <span class= "phonetic">[ məust ]</span>
+        </h4>
+    <ul>
+		
+		
+				        <li>
+		<span class="pos">adj.</span>
+                            <ul class="ol">
+        		
+			    		        											
+            		                    <li>
+            		    <span class="def">(superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number</span>
+
+						
+																				        													        													        				<p><em>&quot;who has the most apples?&quot;; &quot; most people like eggs&quot;; &quot; most fishes have fins&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">the superlative of `much' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning the greatest in amount or extent or degree</span>
+
+						
+																				        													        													        				<p><em>&quot;made the most money he could&quot;; &quot; what attracts the most attention?&quot;; &quot; made the most of a bad deal&quot;</em></p>
+						
+						                         </li>
+            		                      </ul>
+            </li>
+    
+				        <li>
+		<span class="pos">adv.</span>
+                            <ul class="ol">
+        		
+			    		        											
+            		                    <li>
+            		    <span class="def">used to form the superlative</span>
+
+						
+																				        				<p><em>&quot;the king cobra is the most dangerous snake&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/to_the_highest_degree/?tab=eng#keyfrom=dict.eesy'>to the highest degree</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">very</span>
+
+						
+																				        				<p><em>&quot;a most welcome relief&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">(of actions or states) slightly short of or not quite accomplished</span>
+
+						
+																				        													        													        				<p><em>&quot;the baby was almost asleep when the alarm sounded&quot;; &quot; we're almost finished&quot;; &quot; most everyone agrees&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/about/?tab=eng#keyfrom=dict.eesy'>about</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/just_about/?tab=eng#keyfrom=dict.eesy'>just about</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/almost/?tab=eng#keyfrom=dict.eesy'>almost</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/all_but/?tab=eng#keyfrom=dict.eesy'>all but</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/nearly/?tab=eng#keyfrom=dict.eesy'>nearly</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/near/?tab=eng#keyfrom=dict.eesy'>near</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/nigh/?tab=eng#keyfrom=dict.eesy'>nigh</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/virtually/?tab=eng#keyfrom=dict.eesy'>virtually</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/well-nigh/?tab=eng#keyfrom=dict.eesy'>well-nigh</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		                      </ul>
+            </li>
+     </ul>
+<p class="via ar">
+以上来源于:
+<a class="tipshuiseunderline log-js" data-4log="wordnet" target="_blank" href="http://wordnet.princeton.edu/" rel="nofollow">WordNet</a>
+</p>
+<!-- 英英翻译结束 -->
+</div>
+            </div>
+            </div>
+</div>
+
+                          <div id="wordArticle" class="trans-wrapper trans-tab">
+    <h3>
+        <span class="tabs">
+            <a class="tab-current"><span>相关文章</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#wordArticleToggle"></a>
+    </h3>
+    <div id="wordArticleToggle"></div>
+</div>
+<script src="https://shared.ydstatic.com/dict/v2016/result/160621/result-wordArticle.js"></script>                                        <div id="authTrans" class="trans-wrapper trans-tab"> 
+            <h3>
+                <span class="tabs">
+                                                                                                    <a rel="#collinsResult"><span>&nbsp;柯林斯英汉双解大词典&nbsp;</span></a>
+                </span>
+                <a class="toggle toggleOpen" rel="#authTransToggle"></a>
+            </h3>
+            <div id="authTransToggle">
+                                                    <div id="collinsResult" class="tab-content">
+        <div class="trans-container">
+        <div class="trans-content">
+                                    <div class="collinsToggle trans-container">
+				                                                            <div class="wt-container">
+                                                                                                <h4>
+                                <span class="title">most</span>
+                                                                    <em class="additional spell phonetic">/məʊst/</em>
+                                                                                                                                            <span class="star star5" title="使用频率"></span>
+                                                                        								                                
+                                                                                                                                                                                <span class="via rank">CET4 TEM4</span>
+                                                                                                    
+                                                                								
+							</h4>
+																												
+																							                                																																																																																																																								
+																 
+															
+																																																																																			
+					
+					    													<ul class="ol">
+																	
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">1.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="数量词">QUANT</span>
+    																    															    														    														You use <b>most</b> to refer to the majority of a group of things or people or the largest part of something. 大多数; 大部分
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">[QUANT 'of' def-n]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Most of the houses in the capital don't have indoor plumbing. </p>
+                                                                            <p>首都大多数房屋没有室内管道装置。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> By stopping smoking you are undoing most of the damage smoking has caused. </p>
+                                                                            <p>通过戒烟，你就是在消除吸烟所致的大多数危害。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">2.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="限定词">DET</span>
+    																    															    														    														<b>Most</b> is also a determiner. 大多数的
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Most people think the queen has done a good job over the last 50 years. </p>
+                                                                            <p>大多数人认为女王在过去的50年中尽职尽责。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">3.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="代词">PRON</span>
+    																    															    														    														<b>Most</b> is also a pronoun. 大多数
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Seventeen civilians were hurt. Most are students who had been attending a twenty-first birthday party. </p>
+                                                                            <p>17名平民受了伤，其中大多数是参加一个21岁生日聚会的学生。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">4.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="形容词">ADJ</span>
+    																    															    														    														You use <b>the most</b> to mean a larger amount than anyone or anything else, or the largest amount possible. 最多的
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">['the' ADJ n]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The president himself won the most votes. </p>
+                                                                            <p>总统本人赢得了最多的选票。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">5.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="代词">PRON</span>
+    																    															    														    														<b>Most</b> is also a pronoun. 最多
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The most they earn in a day is fifty rubles. </p>
+                                                                            <p>他们一天最多挣50卢布。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">6.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="副词">ADV</span>
+    																    															    														    														You use <b>most</b> to indicate that something is true or happens to a greater degree or extent than anything else. 最
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">[ADV with v]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> What she feared most was becoming like her mother. </p>
+                                                                            <p>她最害怕的是变得像她母亲一样。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> ...Professor Morris, the person he most hated. </p>
+                                                                            <p>…莫里斯教授，他最恨的那个人。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">7.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														You use <b>most of all</b> to indicate that something happens or is true to a greater extent than anything else. 最
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">8.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="副词">ADV</span>
+    																    															    														    														You use <b>most</b> to indicate that someone or something has a greater amount of a particular quality than most other things of its kind. 最
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">[ADV adj/adv]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Her children had the best, most elaborate birthday parties in the neighbourhood. </p>
+                                                                            <p>她孩子们的生日聚会是左邻右舍中最好、最精心策划的。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> He was one of the most influential performers of modern jazz. </p>
+                                                                            <p>他是最有影响力的现代爵士乐表演者之一。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">9.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="副词">ADV</span>
+    																    															    														    														If you do something <b>the most</b>, you do it to the greatest extent possible or with the greatest frequency. 最大程度地; 最频繁地
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">['the' ADV after v]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> What question are you asked the most? </p>
+                                                                            <p>什么问题是你最常被问到的？</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">10.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="副词">ADV</span>
+    																    															    														    														You use <b>most</b> in conversations when you want to draw someone's attention to something very interesting or important that you are about to say. (谈话中用于吸引注意力) 最
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    																<span class="additional">[ADV adv/adj]</span>
+    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Most surprisingly, quite a few said they don't intend to vote at all. </p>
+                                                                            <p>最令人吃惊的是，相当一部分人说他们根本不打算投票。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">11.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														You use <b>at most</b> or <b>at the most</b> to say that a number or amount is the maximum that is possible and that the actual number or amount may be smaller. 至多
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Poach the pears in apple juice or water and sugar for ten minutes at most. </p>
+                                                                            <p>把梨放入苹果汁或水和糖中，煮最多十分钟。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">12.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
+    																    															    														    														If you <b>make the most of</b> something, you get the maximum use or advantage from it. 充分利用
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Happiness is the ability to make the most of what you have. </p>
+                                                                            <p>幸福就是充分享用你所拥有的一切的能力。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                							</ul>
+																													</div>
+							</div>
+		</div>
+	</div>
+</div>
+                            </div>
+        </div>
+                                        <div id="eTransform" class="trans-wrapper trans-tab"> 
+            <h3>
+                <span class="tabs">
+                                                                                                                                                                <a rel="#wordGroup"><span>词组短语</span></a><a rel="#synonyms"><span>同近义词</span></a><a rel="#relWordTab"><span>同根词</span></a><a rel="#discriminate"><span>词语辨析</span></a>
+                </span>
+                <a class="toggle toggleOpen" rel="#transformToggle"></a>
+            </h3>
+            <div id="transformToggle">
+                                    <div id="wordGroup" class="trans-container tab-content hide more-collapse">
+                                                                    <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_important/#keyfrom=dict.basic.wordgroup">most important</a></span>
+                                                                                最重要的；首要的；最关键的
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_of/#keyfrom=dict.basic.wordgroup">most of</a></span>
+                                                                                大部分，大多数的；绝大多数
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_people/#keyfrom=dict.basic.wordgroup">most people</a></span>
+                                                                                多数人
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_popular/#keyfrom=dict.basic.wordgroup">most popular</a></span>
+                                                                                最受欢迎；最流行
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_them/#keyfrom=dict.basic.wordgroup">most of them</a></span>
+                                                                                他们中的大多数
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_likely/#keyfrom=dict.basic.wordgroup">most likely</a></span>
+                                                                                最可能
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_the_time/#keyfrom=dict.basic.wordgroup">most of the time</a></span>
+                                                                                绝大部分时间，在很多时候
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/in_most_cases/#keyfrom=dict.basic.wordgroup">in most cases</a></span>
+                                                                                大部分情况下
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/at_most/#keyfrom=dict.basic.wordgroup">at most</a></span>
+                                                                                至多
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/make_the_most_of/#keyfrom=dict.basic.wordgroup">make the most of</a></span>
+                                                                                尽量利用；十分重视
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_all/#keyfrom=dict.basic.wordgroup">most of all</a></span>
+                                                                                最重要的是；首先
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_often/#keyfrom=dict.basic.wordgroup">most often</a></span>
+                                                                                最经常；很多时候；通常来说
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/for_the_most_part/#keyfrom=dict.basic.wordgroup">for the most part</a></span>
+                                                                                adv. 在极大程度上，多半
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/at_the_most/#keyfrom=dict.basic.wordgroup">at the most</a></span>
+                                                                                至多，不超过
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_probable/#keyfrom=dict.basic.wordgroup">most probable</a></span>
+                                                                                最可能的
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_time/#keyfrom=dict.basic.wordgroup">most of time</a></span>
+                                                                                adj. 时常地
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_valuable_player/#keyfrom=dict.basic.wordgroup">most valuable player</a></span>
+                                                                                最有价值球员；最优秀选手
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/for_most_purposes/#keyfrom=dict.basic.wordgroup">for most purposes</a></span>
+                                                                                对大多数场合
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_reverend/#keyfrom=dict.basic.wordgroup">most reverend</a></span>
+                                                                                最尊敬的大主教大人（大主教的尊称）
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/most_favored_nation/#keyfrom=dict.basic.wordgroup">most favored nation</a></span>
+                                                                                最惠国待遇
+                                                </p>
+            <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
+<span class="show_more">更多</span><span
+class="show_less">收起</span>词组短语
+</div>
+</div>
+                                                    <div id="synonyms" class="trans-container tab-content hide">
+<ul>
+  <li>adv. 最；非常，极其；最多；几乎</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/extremely/#keyfrom=dict.basic.syno">extremely</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/badly/#keyfrom=dict.basic.syno">badly</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/highly/#keyfrom=dict.basic.syno">highly</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/greatly/#keyfrom=dict.basic.syno">greatly</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/almost/#keyfrom=dict.basic.syno">almost</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/nearly/#keyfrom=dict.basic.syno">nearly</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/too/#keyfrom=dict.basic.syno">too</a>
+     </span>
+  </p>
+  <li>adj. 大部分的，多数的；最多的</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/large/#keyfrom=dict.basic.syno">large</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/maximum/#keyfrom=dict.basic.syno">maximum</a>
+     </span>
+  </p>
+  <li>n. 大部分，大多数</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/bulk/#keyfrom=dict.basic.syno">bulk</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/masses_of/#keyfrom=dict.basic.syno">masses of</a>
+     </span>
+  </p>
+</ul>
+</div>
+                                                    <div id="relWordTab" class="trans-container tab-content hide">
+    <p class="wordGroup">
+        词根：
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/most/#keyfrom=dict.basic.relword">most</a>
+        </span>
+   </p>
+        adv.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/mostly/#keyfrom=dict.basic.relword">mostly</a>
+        </span>
+         主要地；通常；多半地
+        </p>
+              </div>
+                                                    <div id="discriminate" class="trans-container tab-content hide">
+                <div class="wt-container">
+    
+        <div class="title" style="position:static;">
+      <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
+                                                      <span>majority, most</span>
+    </div>
+
+                                                
+          <div class="collapse-content">
+                                                                                      <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/majority/#keyfrom=dict.basic.discriminate">majority</a>
+                  </span>
+                                                                              只能修饰可数名词,  the majority of people</p>
+                                                                                            </div>
+                                                                                                <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/most/#keyfrom=dict.basic.discriminate">most</a>
+                  </span>
+                                                                              可数不可数均可</p>
+                                                                                            </div>
+                                                                                                                                              <p class="via">
+          以上来源于<a target="_blank" href=http://wenku.baidu.com/view/9f00db4ae45c3b3567ec8b6a.html rel="nofollow">网络</a>
+          </p>
+              </div>
+        </div>
+              <div class="wt-container wt-collapse">
+    
+        <div class="title" style="position:static;">
+      <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
+                                                      <span>most, mostly</span>
+    </div>
+
+                                                
+          <div class="collapse-content">
+                                                                                      <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/most/#keyfrom=dict.basic.discriminate">most</a>
+                  </span>
+                                                                              用于表感受的肯定句中,相当于very,当大部分,大多数解时是形容词或名词, most people,</p>
+                                                                                            </div>
+                                                                                                <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/mostly/#keyfrom=dict.basic.discriminate">mostly</a>
+                  </span>
+                                                                              大部分,是副词  the people are mostly…</p>
+                                                                                            </div>
+                                                                                                                                              <p class="via">
+          以上来源于<a target="_blank" href=http://wenku.baidu.com/view/9f00db4ae45c3b3567ec8b6a.html rel="nofollow">网络</a>
+          </p>
+              </div>
+        </div>
+  </div>
+                            </div>
+        </div>
+    
+                                                                        <!--例句选项卡 begin-->
+<div id="examples" class="trans-wrapper">
+    <h3>
+        <span class="tabs">
+                                                                                                <a rel="#bilingual"><span>双语例句</span></a><a rel="#originalSound"><span>原声例句</span></a><a rel="#authority"><span>权威例句</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#examplesToggle"></a>
+    </h3>
+    <div id="examplesToggle">
+                <div id="bilingual" class="trans-container  tab-content">
+            <ul class="ol">
+                                     
+                            
+                                                                                                                <li>
+                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_3')" onmouseout="unhlgt('#src_0_0,#tran_0_3')"><b>Most</b></span><span> </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_2')" onmouseout="unhlgt('#src_0_1,#tran_0_2')">of</span><span> </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_0')" onmouseout="unhlgt('#src_0_2,#tran_0_0')">the</span><span> </span><span id="src_0_3" onmouseover="hlgt('#src_0_3,#tran_0_1')" onmouseout="unhlgt('#src_0_3,#tran_0_1')">students</span><span> </span><span id="src_0_4" onmouseover="hlgt('#src_0_4,#tran_0_4')" onmouseout="unhlgt('#src_0_4,#tran_0_4')">understand</span><span> </span><span id="src_0_5" onmouseover="hlgt('#src_0_5,#tran_0_5')" onmouseout="unhlgt('#src_0_5,#tran_0_5')">English well</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Most+of+the+students+understand+English+well.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_0_0" onmouseover="hlgt('#src_0_2,#tran_0_0')" onmouseout="unhlgt('#src_0_2,#tran_0_0')">这些</span><span id="tran_0_1" onmouseover="hlgt('#src_0_3,#tran_0_1')" onmouseout="unhlgt('#src_0_3,#tran_0_1')">学生</span><span id="tran_0_2" onmouseover="hlgt('#src_0_1,#tran_0_2')" onmouseout="unhlgt('#src_0_1,#tran_0_2')">中</span><span id="tran_0_3" onmouseover="hlgt('#src_0_0,#tran_0_3')" onmouseout="unhlgt('#src_0_0,#tran_0_3')">大多数</span><span id="tran_0_4" onmouseover="hlgt('#src_0_4,#tran_0_4')" onmouseout="unhlgt('#src_0_4,#tran_0_4')">通晓</span><span id="tran_0_5" onmouseover="hlgt('#src_0_5,#tran_0_5')" onmouseout="unhlgt('#src_0_5,#tran_0_5')">英语</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a href="http://www.jukuu.com/show-english+understand-0.html" target=_blank rel="nofollow">www.jukuu.com</a>
+                                            </p>
+                </li>
+                                       
+                            
+                                                                                                                <li>
+                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">You</span><span> </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_2')" onmouseout="unhlgt('#src_1_1,#tran_1_2')">can</span><span> </span><span id="src_1_2" onmouseover="hlgt('#src_1_2,#tran_1_8')" onmouseout="unhlgt('#src_1_2,#tran_1_8')">feed</span><span> </span><span id="src_1_3" onmouseover="hlgt('#src_1_3,#tran_1_9')" onmouseout="unhlgt('#src_1_3,#tran_1_9')">better</span><span> </span><span id="src_1_4" onmouseover="hlgt('#src_1_4,#tran_1_1')" onmouseout="unhlgt('#src_1_4,#tran_1_1')">here</span><span> </span><span id="src_1_5" onmouseover="hlgt('#src_1_5,#tran_1_3')" onmouseout="unhlgt('#src_1_5,#tran_1_3')">than</span><span> </span><span id="src_1_6" onmouseover="hlgt('#src_1_6,#tran_1_4')" onmouseout="unhlgt('#src_1_6,#tran_1_4')">in</span><span> </span><span id="src_1_7" onmouseover="hlgt('#src_1_7,#tran_1_6')" onmouseout="unhlgt('#src_1_7,#tran_1_6')"><b>most</b></span><span> </span><span id="src_1_8" onmouseover="hlgt('#src_1_8,#tran_1_5')" onmouseout="unhlgt('#src_1_8,#tran_1_5')">other</span><span> </span><span id="src_1_9" onmouseover="hlgt('#src_1_9,#tran_1_7')" onmouseout="unhlgt('#src_1_9,#tran_1_7')">cities</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="You+can+feed+better+here+than+in+most+other+cities.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">你</span><span id="tran_1_1" onmouseover="hlgt('#src_1_4,#tran_1_1')" onmouseout="unhlgt('#src_1_4,#tran_1_1')">在这里</span><span id="tran_1_2" onmouseover="hlgt('#src_1_1,#tran_1_2')" onmouseout="unhlgt('#src_1_1,#tran_1_2')">能</span><span id="tran_1_3" onmouseover="hlgt('#src_1_5,#tran_1_3')" onmouseout="unhlgt('#src_1_5,#tran_1_3')">比</span><span id="tran_1_4" onmouseover="hlgt('#src_1_6,#tran_1_4')" onmouseout="unhlgt('#src_1_6,#tran_1_4')">在</span><span id="tran_1_5" onmouseover="hlgt('#src_1_8,#tran_1_5')" onmouseout="unhlgt('#src_1_8,#tran_1_5')">其他</span><span id="tran_1_6" onmouseover="hlgt('#src_1_7,#tran_1_6')" onmouseout="unhlgt('#src_1_7,#tran_1_6')">大部分</span><span id="tran_1_7" onmouseover="hlgt('#src_1_9,#tran_1_7')" onmouseout="unhlgt('#src_1_9,#tran_1_7')">城市</span><span id="tran_1_8" onmouseover="hlgt('#src_1_2,#tran_1_8')" onmouseout="unhlgt('#src_1_2,#tran_1_8')">吃</span><span id="tran_1_9" onmouseover="hlgt('#src_1_3,#tran_1_9')" onmouseout="unhlgt('#src_1_3,#tran_1_9')">得更好</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a href="http://danci.911cha.com/here%252Ffeed%2Bin.html" target=_blank rel="nofollow">danci.911cha.com</a>
+                                            </p>
+                </li>
+                                       </ul>
+                        <a class="more-example" href="/example/blng/eng/most/#keyfrom=dict.main.moreblng" title="most的双语例句">更多双语例句</a>
+                    </div>
+         
+                <!-- Media Result Start -->
+        <div id="originalSound" class="trans-container  tab-content">
+                                                      
+         <ul class="ol">
+                                                            
+                    	       <li>
+           <p>Today we travel to Paris,France, to visit one of the <b>most</b> famous and <b>most</b> visited art collections in the world.
+                                  <a class="sp humanvoice humanvoice-js log-js" title="点击发音" href="#" data-rel="http://dict.youdao.com/pureaudio?docid=5072810999694861001" data-4log="dict.main.pureaudio"></a>
+                      </p>
+                                     <p class="via">
+                          VOA: special.2010.06.23
+                          </p>
+                       </li>
+
+                                                                       
+                              
+                     <li>
+	       <p>I've thrown away <b>most</b> of the array- <b>most</b> of the list, I shouldn't say array- <b>most</b> of the list. All right?<br></p>
+           	       <p>我已经把数组的大部分都排除了-,列表的大部分-,我不应该说数组-列表的大部分？<br></p>
+                      
+                                <div class="video">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-5232362383962598993&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-5232362383962598993" alt="麻省理工公开课中出现most的视频截图" title="麻省理工公开课的相关视频,点击播放" rel="nofollow">
+           <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
+           </a>
+           <a href="#" class="close" style="display: none;"></a>
+          </div>
+            		    <p class="example-via"><a href='http://v.163.com/special/opencourse/bianchengdaolun.html' target=_blank rel="nofollow">麻省理工公开课 - 计算机科学及编程导论课程节选</a></p>
+            	        	     </li>
+                                                             
+                              
+                     <li>
+	       <p>and said that the courtyard right over there is the <b>most</b> courtyard, the <b>most</b> beautiful courtyard in America.<br></p>
+           	       <p>他说那边的那个院子是全美国最漂亮的院子。<br></p>
+                      
+                                <div class="video">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-2399975049794365079&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-2399975049794365079" alt="你最喜欢的作家是中出现most的视频截图" title="你最喜欢的作家是的相关视频,点击播放" rel="nofollow">
+           <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
+           </a>
+           <a href="#" class="close" style="display: none;"></a>
+          </div>
+            		    <p class="example-via"><a href='http://www.speakingmax.cn/clip/IvyLeague/3/2/repeat-334' target=_blank rel="nofollow">你最喜欢的作家是 - SpeakingMax英语口语达人</a></p>
+            	        	     </li>
+                            </ul>
+                    <a class="more-example" href="/example/mdia/most/#keyfrom=dict.main.moremedia" title="most的原声例句">更多原声例句</a>
+                  </div>
+        
+                
+                <div id="authority" class="trans-container  tab-content">
+                  <ul class="ol">
+                             <li>
+           <p>This creates a bottom for the market by putting a price on the <b>most</b> problematic paper. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="This+creates+a+bottom+for+the+market+by+putting+a+price+on+the+most+problematic+paper.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.forbes.com/2008/11/07/Intelligent-Investing-Lipper-Briefing-Book.html" target=_blank rel="nofollow">FORBES: <i>Briefing Book: A. Michael Lipper</i></a></p>
+           </li>
+                                      <li>
+           <p>Heck, it's higher-quality than <b>most</b> Atom-powered Windows 8 tablets, too, albeit not as powerful. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Heck%2C+it%27s+higher-quality+than+most+Atom-powered+Windows+8+tablets%2C+too%2C+albeit+not+as+powerful.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.engadget.com/2013/04/29/lenovo-ideapad-yoga-11-review/" target=_blank rel="nofollow">ENGADGET: <i>blogger-avatar</i></a></p>
+           </li>
+                                      <li>
+           <p>While <b>most</b> hedge funds underperformed the U.S. stock market in 2012, Tepper trounced it. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="While+most+hedge+funds+underperformed+the+U.S.+stock+market+in+2012%2C+Tepper+trounced+it.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.forbes.com/pictures/eejk45ekdif/david-tepper-5/" target=_blank rel="nofollow">FORBES: <i>David Tepper</i></a></p>
+           </li>
+                           </ul>
+                   <a class="more-example" href="/example/auth/most/#keyfrom=dict.main.moreauth" title="most的权威例句">更多权威例句</a>
+                   </div>
+            </div>
+</div>
+<!--例句选项卡 end-->
+                                                                            
+                                    </div>
+    </div>
+                    
+
+<div id="ads" class="ads">
+  <div id="dict-inter" class="dict-inter">
+          <p class="hd">词组短语</p>
+      <div id="wordGroup2" class="trans-container tab-content hide more-collapse">
+                                                                                                        <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_important/#keyfrom=dict.basic.wordgroup">most important</a></span>
+                                                                                                        最重要的；首要的；最关键的
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_of/#keyfrom=dict.basic.wordgroup">most of</a></span>
+                                                                                                        大部分，大多数的；绝大多数
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_people/#keyfrom=dict.basic.wordgroup">most people</a></span>
+                                                                                                        多数人
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_popular/#keyfrom=dict.basic.wordgroup">most popular</a></span>
+                                                                                                        最受欢迎；最流行
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_them/#keyfrom=dict.basic.wordgroup">most of them</a></span>
+                                                                                                        他们中的大多数
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_likely/#keyfrom=dict.basic.wordgroup">most likely</a></span>
+                                                                                                        最可能
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_the_time/#keyfrom=dict.basic.wordgroup">most of the time</a></span>
+                                                                                                        绝大部分时间，在很多时候
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/in_most_cases/#keyfrom=dict.basic.wordgroup">in most cases</a></span>
+                                                                                                        大部分情况下
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/at_most/#keyfrom=dict.basic.wordgroup">at most</a></span>
+                                                                                                        至多
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/make_the_most_of/#keyfrom=dict.basic.wordgroup">make the most of</a></span>
+                                                                                                        尽量利用；十分重视
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_all/#keyfrom=dict.basic.wordgroup">most of all</a></span>
+                                                                                                        最重要的是；首先
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_often/#keyfrom=dict.basic.wordgroup">most often</a></span>
+                                                                                                        最经常；很多时候；通常来说
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/for_the_most_part/#keyfrom=dict.basic.wordgroup">for the most part</a></span>
+                                                                                                        adv. 在极大程度上，多半
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/at_the_most/#keyfrom=dict.basic.wordgroup">at the most</a></span>
+                                                                                                        至多，不超过
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_probable/#keyfrom=dict.basic.wordgroup">most probable</a></span>
+                                                                                                        最可能的
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_of_time/#keyfrom=dict.basic.wordgroup">most of time</a></span>
+                                                                                                        adj. 时常地
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_valuable_player/#keyfrom=dict.basic.wordgroup">most valuable player</a></span>
+                                                                                                        最有价值球员；最优秀选手
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/for_most_purposes/#keyfrom=dict.basic.wordgroup">for most purposes</a></span>
+                                                                                                        对大多数场合
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_reverend/#keyfrom=dict.basic.wordgroup">most reverend</a></span>
+                                                                                                        最尊敬的大主教大人（大主教的尊称）
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/most_favored_nation/#keyfrom=dict.basic.wordgroup">most favored nation</a></span>
+                                                                                                        最惠国待遇
+                                                                  </p>
+                                      <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
+        <span class="show_more">更多</span><span
+        class="show_less">收起</span>词组短语
+        </div>
+              </div>
+        </div>
+  <div id="baidu-adv"></div>
+  
+  <div id="follow" class="follow">
+    <p class="hd">应用推荐</p>
+    <div class="bd">
+      <iframe src="https://c.youdao.com/www/app.html" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
+
+                            <div id="rel-search" class="rel-search">
+
+            </div>
+                <div id="pronounce">
+            <div class="alpha-bg"></div>
+            <div class="pr-content">
+                $firstVoiceSent
+                <div class="pr-source">- 来自原声例句</div>
+            </div>
+        </div>
+</div>
+<div class="c-bsearch" style="zoom:1;">
+</div>
+</div>
+<!-- 内容区域 -->
+
+<div id="c_footer">
+  <div class="wrap">
+            <a href="http://www.youdao.com/about/" rel="nofollow">关于有道</a>
+        <a href="http://ir.youdao.com/" rel="nofollow">Investors</a>
+        <a href="http://dsp.youdao.com/?keyfrom=dict2.top" rel="nofollow">有道智选</a>
+        <a href="http://i.youdao.com/?keyfrom=dict2.top" rel="nofollow">官方博客</a>
+        <a href="http://techblog.youdao.com/?keyfrom=dict2.top" rel="nofollow">技术博客</a>
+        <a href="http://campus.youdao.com/index.php?t1=index?keyfrom=dict2.top" rel="nofollow">诚聘英才</a>
+        <a href="http://shared.youdao.com/www/contactus-page.html?keyfrom=dict2.top" rel="nofollow">联系我们</a>
+        <a href="https://dict.youdao.com/map/index.html?keyfrom=dict2.top">站点地图</a>
+        <a href="http://www.12377.cn/?keyfrom=dict2.top" rel="nofollow">网络举报</a>
+    <span class="c_fcopyright">&copy; 2020 网易公司 <a href="http://www.youdao.com/terms/privacy.html?keyfrom=dict2.top" rel="nofollow">隐私政策</a> <a href="http://www.youdao.com/terms/index.html?keyfrom=dict2.top" rel="nofollow">服务条款</a> 京ICP证080268号 <a href="http://beian.miit.gov.cn" rel="nofollow">京ICP备10005211号</a></span>
+  </div>
+</div>
+</div>
+<div id="langSelection" class="pm">
+    <ul>
+        <li><a href="#" rel="eng" class="current">中英</a></li>
+        <li><a href="#" rel="fr">中法</a></li>
+        <li><a href="#" rel="ko">中韩</a></li>
+        <li><a href="#" rel="jap">中日</a></li>
+    </ul>
+</div>
+
+<div id="handWrite" class="pm" style="display:none;">
+    <object width="346" height="216" type="application/x-shockwave-flash" id="hnw" data="https://shared.ydstatic.com/dict/v5.16/swf/Hnw.swf">
+        <param name="movie" value="https://shared.ydstatic.com/dict/v5.16/swf/Hnw.swf"/>
+        <param name="menu" value="false"/>
+        <param name="allowScriptAccess" value="always"/>
+    </object>
+</div>
+
+<div id="researchZoon" class="pm">
+    <div class="title">小调查</div>
+    <div class="zoo-content">
+        请问您想要如何调整此模块？
+        <p><input id="upIt" type="radio" name="researchBox" value="up"><label for="upIt">模块上移</label></p>
+        <p><input id="downIt" type="radio" name="researchBox" value="down"><label for="downIt">模块下移</label></p>
+        <p><input id="dontmove" type="radio" name="researchBox" value="stay"><label for="dontmove">不移动</label></p>
+        <div>感谢您的反馈，我们会尽快进行适当修改！</div>
+        <a href="http://survey2.163.com/html/webdict_survey_reorder/paper.html" target="_blank" style="text-decoration: underline;" rel="nofollow">进来说说原因吧</a>
+        <a href="javascript:void(0);" class="submitResult" rel="nofollow">确定</a>
+    </div>
+</div>
+
+<div id="researchZoon21" class="pm">
+    <div class="title">小调查</div>
+    <div class="zoo-content">
+        请问您想要如何调整此模块？
+        <p><input id="upIt21" type="radio" name="researchBox" value="up"><label for="upIt21">模块上移</label></p>
+        <p><input id="downIt21" type="radio" name="researchBox" value="down"><label for="downIt21">模块下移</label></p>
+        <p><input id="dontmove21" type="radio" name="researchBox" value="stay"><label for="dontmove21">不移动</label></p>
+        <div>感谢您的反馈，我们会尽快进行适当修改！</div>
+        <a href="http://survey2.163.com/html/webdict_survey_reorder/paper.html" target="_blank" style="text-decoration: underline;" rel="nofollow">进来说说原因吧</a>
+        <a href="javascript:void(0);" class="submitResult" rel="nofollow">确定</a>
+    </div>
+</div>
+
+<div id="editwordform" style="display:none;">
+    <h3>修改单词</h3>
+    <a href="javascript:void(0);" id="close-editwordform"></a>
+    <form method="post" >
+        <label for="wordbook-word">单词</label>
+        <input id="wordbook-word" type="text" value="" name="word" autocomplete="off" /><span><a id="delword" href="javascript:void(0);">从单词本中删除</a></span>
+        <label for="wordbook-phonetic">音标</label>
+        <input id="wordbook-phonetic" type="text" value="" name="phonetic" />
+        <label for="wordbook-desc">解释</label>
+        <textarea id="wordbook-desc" name="desc" ></textarea>
+        <label style="color:blue;">更多（可不填）</label>
+        <label for="wordbook-tags">分类</label><input id="wordbook-tags" type="text" value="" name="tags" autocomplete="off" />
+        <ul id="tag-select-list">
+        </ul>
+        <div style="text-align:center;"><a id="openwordbook" href="/wordbook/wordlist?keyfrom=smallpic" target="_blank">打开单词本</a><a id="addword" href="javascript:void(0);">提交</a></div>
+    </form>
+</div>
+
+<script type="text/javascript" src="https://shared.ydstatic.com/dict/v2016/160525/autocomplete_json.js"></script>
+<script type="text/javascript">
+    var global = {
+        fromVm:{
+            searchDomain:'youdao.com'
+        }
+    };
+
+
+    function rwt(a, newlink) {
+        try {
+            if (a === window) {
+                a = window.event.srcElement;
+                while (a) {
+                    if (a.href)
+                        break;
+                    a = a.parentNode
+                }
+            }
+            a.href = newlink;
+            a.onmousedown = ""
+        } catch (p) {
+        }
+        return true
+    }
+</script>
+
+<script type="text/javascript" src="https://c.youdao.com/dict/activity/ad/result-min.js"></script>
+<script>
+var _rlog = _rlog || [];
+_rlog.push(["_setAccount" , "dictweb"]);
+_rlog.push(["_addPost" , "page" , "search"]);
+_rlog.push(["_addPost" , "q" , "most"]);
+</script>
+<script defer src="https://shared.ydstatic.com/js/rlog/v1.js"></script>
+<!-- START NetEase Devilfish 2006 -->
+<script src="https://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script type="text/javascript">
+_ntes_nacc = "yddictweb";
+neteaseTracker();
+</script>
+<!-- END NetEase Devilfish 2006 -->
+</body>
+</html>

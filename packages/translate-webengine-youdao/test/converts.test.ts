@@ -4,10 +4,11 @@ import { toLookUpResult } from '../src/converts';
 
 describe('converts', () => {
   it('works', async () => {
-    const originData = fs.readFileSync('./test/hello.txt').toString();
+    const originData = fs.readFileSync('./test/most.txt').toString();
 
     const r = toLookUpResult(
       new YoudaoWebEngine(),
+      'most',
       { exclude: ['originData'] },
       originData
     );

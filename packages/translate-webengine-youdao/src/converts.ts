@@ -108,6 +108,11 @@ const toLookUpResult = (
       const name = additional[i];
       const value = additional[i + 1];
 
+      if (!(name && value)) {
+        tenses = undefined;
+        break
+      }
+
       let values = [value];
       if (value.indexOf('或') >= 0) {
         values = value.split('或');
